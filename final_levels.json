@@ -69,6 +69,49 @@
         ]
     },
     {
+        "id": "0.1",
+        "name": "Level 0.1",
+        "url": "http://backrooms-wiki.wikidot.com/level-0-1",
+        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-0-1/zenith-station.jpg",
+        "class": "0",
+        "communities": [],
+        "entrances": [
+            "0"
+        ],
+        "exits": [
+            "0",
+            "1"
+        ]
+    },
+    {
+        "id": "0.2",
+        "name": "Level 0.2",
+        "url": "http://backrooms-wiki.wikidot.com/level-0-2",
+        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-0-2/RemodelledHQ.jpg",
+        "class": "3",
+        "communities": [],
+        "entrances": [
+            "0"
+        ],
+        "exits": [
+            "0"
+        ]
+    },
+    {
+        "id": "0.3",
+        "name": "Level 0.3",
+        "url": "http://backrooms-wiki.wikidot.com/level-0-3",
+        "image": "http://backrooms-sandbox-2.wdfiles.com/local--files/cursedsliver-the-ii/Part2",
+        "class": "3",
+        "communities": [],
+        "entrances": [
+            "0"
+        ],
+        "exits": [
+            "0"
+        ]
+    },
+    {
         "id": "1",
         "name": "Level 1",
         "url": "http://backrooms-wiki.wikidot.com/level-1",
@@ -147,6 +190,142 @@
         ]
     },
     {
+        "id": "1.1-5",
+        "name": "Level 1.1 Sector 5",
+        "url": "http://backrooms-wiki.wikidot.com/level-1-1",
+        "image": "http://backrooms-sandbox-2.wikidot.com/local--files/kvn7-level-1-1/Sector-5",
+        "class": "N/A",
+        "communities": [],
+        "entrances": [
+            "1.1-4"
+        ],
+        "exits": [
+            "1.1-4"
+        ]
+    },
+    {
+        "id": "1.1-4",
+        "name": "Level 1.1 Sector 4",
+        "url": "http://backrooms-wiki.wikidot.com/level-1-1",
+        "image": "http://backrooms-sandbox-2.wikidot.com/local--files/kvn7-level-1-1/Sector-4",
+        "class": "Deadzone",
+        "communities": [
+            "M.E.G. - Outpost 5 (Abandoned)"
+        ],
+        "entrances": [
+            "1.1-5",
+            "1.1-3"
+        ],
+        "exits": [
+            "1.1-5",
+            "1.1-3"
+        ]
+    },
+    {
+        "id": "1.1-3",
+        "name": "Level 1.1 Sector 3",
+        "url": "http://backrooms-wiki.wikidot.com/level-1-1",
+        "image": "http://backrooms-sandbox-2.wikidot.com/local--files/kvn7-level-1-1/Sector-3",
+        "class": "4",
+        "communities": [
+            "M.E.G. - Outpost 4"
+        ],
+        "entrances": [
+            "1.1-4",
+            "1.1-2"
+        ],
+        "exits": [
+            "1.1-4",
+            "1.1-2"
+        ]
+    },
+    {
+        "id": "1.1-2",
+        "name": "Level 1.1 Sector 2",
+        "url": "http://backrooms-wiki.wikidot.com/level-1-1",
+        "image": "http://backrooms-sandbox-2.wikidot.com/local--files/kvn7-level-1-1/Sector-2",
+        "class": "2",
+        "communities": [
+            "M.E.G. - Outpost 2",
+            "M.E.G. - Outpost 3",
+            "Jakob's Hut"
+        ],
+        "entrances": [
+            "1.1-3",
+            "1.1-1"
+        ],
+        "exits": [
+            "1.1-3",
+            "1.1-1"
+        ]
+    },
+    {
+        "id": "1.1-1",
+        "name": "Level 1.1 Sector 1",
+        "url": "http://backrooms-wiki.wikidot.com/level-1-1",
+        "image": "http://backrooms-sandbox-2.wikidot.com/local--files/kvn7-level-1-1/Sector-1",
+        "class": "0",
+        "communities": [
+            "M.E.G. - Outpost 1"
+        ],
+        "entrances": [
+            "1",
+            "1.1-2"
+        ],
+        "exits": [
+            "1",
+            "1.1-2"
+        ]
+    },
+    {
+        "id": "1.3",
+        "name": "Level 1.3",
+        "url": "http://backrooms-wiki.wikidot.com/level-1-3",
+        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-1-3/rot.png",
+        "class": "Deadzone",
+        "communities": [
+            "M.E.G. - The Ward (Abandoned)"
+        ],
+        "entrances": [
+            "1"
+        ],
+        "exits": [
+            "1"
+        ]
+    },
+    {
+        "id": "1.4",
+        "name": "Level √2",
+        "url": "http://backrooms-wiki.wikidot.com/level-1-4",
+        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-1-4/5345271930_a457a69662_b.jpg",
+        "class": "Sigma",
+        "communities": [],
+        "entrances": [
+            "1",
+            "81"
+        ],
+        "exits": [
+            "1",
+            "81"
+        ]
+    },
+    {
+        "id": "1.5",
+        "name": "Level 1.5",
+        "url": "http://backrooms-wiki.wikidot.com/level-1-5",
+        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-1-5/Level-1.5.jpg",
+        "class": "Undetermined",
+        "communities": [],
+        "entrances": [
+            "1",
+            "21"
+        ],
+        "exits": [
+            "1",
+            "21"
+        ]
+    },
+    {
         "id": "2",
         "name": "Level 2",
         "url": "http://backrooms-wiki.wikidot.com/level-2",
@@ -214,6 +393,23 @@
         ]
     },
     {
+        "id": "2.2",
+        "name": "Level 2.2",
+        "url": "http://backrooms-wiki.wikidot.com/level-2-2",
+        "image": "https://static.wikia.nocookie.net/backrooms/images/4/44/77room1.png",
+        "class": "4",
+        "communities": [],
+        "entrances": [
+            "2",
+            "3"
+        ],
+        "exits": [
+            "2",
+            "3",
+            "98"
+        ]
+    },
+    {
         "id": "3",
         "name": "Level 3",
         "url": "http://backrooms-wiki.wikidot.com/level-3",
@@ -264,6 +460,24 @@
             "611",
             "666",
             "the-surveillance-room"
+        ]
+    },
+    {
+        "id": "3.1",
+        "name": "Level 3.1",
+        "url": "http://backrooms-wiki.wikidot.com/level-3-1",
+        "image": "http://backrooms-wiki.wikidot.com/local--files/level-3-1/two",
+        "class": "4",
+        "communities": [
+            "M.E.G. - Base Gamma-B",
+            "B.N.T.G. - Space Complex Outpost"
+        ],
+        "entrances": [
+            "3"
+        ],
+        "exits": [
+            "3",
+            "4"
         ]
     },
     {
@@ -350,6 +564,62 @@
         ]
     },
     {
+        "id": "4.2",
+        "name": "Level 4.2",
+        "url": "http://backrooms-wiki.wikidot.com/level-4-2",
+        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-4-2/new",
+        "class": "0",
+        "communities": [],
+        "entrances": [
+            "4",
+            "4.4",
+            "9.2"
+        ],
+        "exits": [
+            "0",
+            "1",
+            "4",
+            "4.4",
+            "5"
+        ]
+    },
+    {
+        "id": "4.3",
+        "name": "Level 4.3",
+        "url": "http://backrooms-wiki.wikidot.com/level-4-3",
+        "image": "http://backrooms-wiki.wikidot.com/local--files/level-4-3/4.3New",
+        "class": "1",
+        "communities": [],
+        "entrances": [
+            "4",
+            "4.4"
+        ],
+        "exits": [
+            "4",
+            "4.4"
+        ]
+    },
+    {
+        "id": "4.4",
+        "name": "Level 4.4",
+        "url": "http://backrooms-wiki.wikidot.com/level-4-4",
+        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-4-4/level4-4.jpg",
+        "class": "5b",
+        "communities": [],
+        "entrances": [
+            "4",
+            "4.2",
+            "4.3",
+            "611"
+        ],
+        "exits": [
+            "4",
+            "4.2",
+            "4.3",
+            "7"
+        ]
+    },
+    {
         "id": "5",
         "name": "Level 5",
         "url": "http://backrooms-wiki.wikidot.com/level-5",
@@ -421,6 +691,51 @@
         ]
     },
     {
+        "id": "5.1",
+        "name": "Level 5.1",
+        "url": "http://backrooms-wiki.wikidot.com/level-5-1",
+        "image": "https://natedagreat563.wdfiles.com/local--files/storage-unit-3/Entrance",
+        "class": "Casino",
+        "communities": [],
+        "entrances": [
+            "5"
+        ],
+        "exits": [
+            "5"
+        ]
+    },
+    {
+        "id": "5.2",
+        "name": "Level 5.2",
+        "url": "http://backrooms-wiki.wikidot.com/level-5-2",
+        "image": "http://frozenflex1337.wdfiles.com/local--files/level-5-2/hotel1cropped",
+        "class": "3",
+        "communities": [
+            "Stairtown",
+            "Polefall"
+        ],
+        "entrances": [
+            "5"
+        ],
+        "exits": [
+            "5"
+        ]
+    },
+    {
+        "id": "5.3",
+        "name": "Level 5.3",
+        "url": "http://backrooms-wiki.wikidot.com/level-5-3",
+        "image": "http://backrooms-wiki.wikidot.com/local--files/level-5-3/george-peabody-bucherei-1629308_1280.jpg",
+        "class": "Pending",
+        "communities": [],
+        "entrances": [
+            "5"
+        ],
+        "exits": [
+            "5"
+        ]
+    },
+    {
         "id": "6",
         "name": "Level 6",
         "url": "http://backrooms-wiki.wikidot.com/level-6",
@@ -475,6 +790,80 @@
             "230",
             "305",
             "880"
+        ]
+    },
+    {
+        "id": "6.1",
+        "name": "Level 6.1",
+        "url": "http://backrooms-wiki.wikidot.com/level-6-1",
+        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-6-1/vending_machine.png",
+        "class": "1",
+        "communities": [
+            "M.E.G. - Level 6 Access Outpost",
+            "The Snackrooms Staff",
+            "Camp Amber - Level 6.1 Outpost",
+            "The Guild of Many"
+        ],
+        "entrances": [
+            "4",
+            "6",
+            "11"
+        ],
+        "exits": [
+            "3",
+            "6",
+            "11",
+            "26",
+            "the-blue-channel"
+        ]
+    },
+    {
+        "id": "6.2",
+        "name": "Level 6.2",
+        "url": "http://backrooms-wiki.wikidot.com/level-6-2",
+        "image": "http://vivarium.wdfiles.com/local--files/backrooms%3Alevel6-2/neon3",
+        "class": "Undetermined",
+        "communities": [],
+        "entrances": [
+            "6"
+        ],
+        "exits": [
+            "6",
+            "11.3"
+        ]
+    },
+    {
+        "id": "6.3",
+        "name": "Level 6.3",
+        "url": "http://backrooms-wiki.wikidot.com/level-6-3",
+        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-6-3/level-6-3_sky.png",
+        "class": "Pending",
+        "communities": [],
+        "entrances": [
+            "6",
+            "6.31"
+        ],
+        "exits": [
+            "6",
+            "6.31"
+        ]
+    },
+    {
+        "id": "6.31",
+        "name": "Level 6.31",
+        "url": "http://backrooms-wiki.wikidot.com/level-6-31",
+        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-6-31/building.jpg",
+        "class": "Habitable",
+        "communities": [
+            "Level 6.31 Community"
+        ],
+        "entrances": [
+            "6",
+            "6.3"
+        ],
+        "exits": [
+            "6",
+            "6.3"
         ]
     },
     {
@@ -536,6 +925,41 @@
             "711",
             "880",
             "the-hadal-zone"
+        ]
+    },
+    {
+        "id": "7.7",
+        "name": "Level 7.7",
+        "url": "http://backrooms-wiki.wikidot.com/level-7-7",
+        "image": "https://i.postimg.cc/nVq5gh6j/Rock-and-Lighthouse-2.jpg",
+        "class": "5e",
+        "communities": [],
+        "entrances": [
+            "7"
+        ],
+        "exits": [
+            "7"
+        ]
+    },
+    {
+        "id": "7.9",
+        "name": "Level 7.9",
+        "url": "http://backrooms-wiki.wikidot.com/level-7-9",
+        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-7-9/level7.9.jpg",
+        "class": "1",
+        "communities": [
+            "Level 7.9 residents",
+            "B.N.T.G. - Recourse Centre"
+        ],
+        "entrances": [
+            "7",
+            "135"
+        ],
+        "exits": [
+            "7",
+            "8",
+            "28",
+            "427"
         ]
     },
     {
@@ -604,6 +1028,20 @@
             "606",
             "813",
             "the-sanctum"
+        ]
+    },
+    {
+        "id": "8.1",
+        "name": "Level 8.1",
+        "url": "http://backrooms-wiki.wikidot.com/level-8-1",
+        "image": "http://backrooms-wiki.wikidot.com/local--files/level-8-1/Level8.1",
+        "class": "4",
+        "communities": [],
+        "entrances": [
+            "8"
+        ],
+        "exits": [
+            "8"
         ]
     },
     {
@@ -688,6 +1126,72 @@
         ]
     },
     {
+        "id": "9.1",
+        "name": "Level 9.1",
+        "url": "http://backrooms-wiki.wikidot.com/level-9-1",
+        "image": "http://orchestrator-of-entropy.wdfiles.com/local--files/level-9-1/ground_zero.png",
+        "class": "Pending",
+        "communities": [],
+        "entrances": [
+            "9"
+        ],
+        "exits": [
+            "9"
+        ]
+    },
+    {
+        "id": "9.2",
+        "name": "Level 9.2",
+        "url": "http://backrooms-wiki.wikidot.com/level-9-2",
+        "image": "http://backrooms-sandbox-2.wikidot.com/local--files/noctilucian/BlackMarket2.jpg",
+        "class": "2",
+        "communities": [
+            "The Nonsense Factory",
+            "Eternal Repository Database 009-2",
+            "Camp Blacklight"
+        ],
+        "entrances": [
+            "9"
+        ],
+        "exits": [
+            "1",
+            "4",
+            "4.2",
+            "5",
+            "9"
+        ]
+    },
+    {
+        "id": "9.3",
+        "name": "Level 9.3",
+        "url": "http://backrooms-wiki.wikidot.com/level-9-3",
+        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-9-3/Road1.jpg",
+        "class": "Undetermined",
+        "communities": [],
+        "entrances": [
+            "9"
+        ],
+        "exits": [
+            "9"
+        ]
+    },
+    {
+        "id": "9.5",
+        "name": "Level 9.5",
+        "url": "http://backrooms-wiki.wikidot.com/level-9-5",
+        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-9-5/snowing",
+        "class": "Pending",
+        "communities": [
+            "Rockwell's Respite"
+        ],
+        "entrances": [
+            "9"
+        ],
+        "exits": [
+            "9"
+        ]
+    },
+    {
         "id": "10",
         "name": "Level 10",
         "url": "http://backrooms-wiki.wikidot.com/level-10",
@@ -743,6 +1247,38 @@
             "214",
             "283",
             "925"
+        ]
+    },
+    {
+        "id": "10.1",
+        "name": "Level 10.1",
+        "url": "http://backrooms-wiki.wikidot.com/level-10-1",
+        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-10-1/redlake.png",
+        "class": "5E",
+        "communities": [],
+        "entrances": [
+            "10"
+        ],
+        "exits": [
+            "10"
+        ]
+    },
+    {
+        "id": "10.2",
+        "name": "Level 10.2",
+        "url": "http://backrooms-wiki.wikidot.com/level-10-2",
+        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-10-2/haybale1",
+        "class": "1",
+        "communities": [
+            "The Harvesters"
+        ],
+        "entrances": [
+            "10",
+            "81"
+        ],
+        "exits": [
+            "4",
+            "10"
         ]
     },
     {
@@ -926,6 +1462,72 @@
         ]
     },
     {
+        "id": "11.1",
+        "name": "Asset 11.1",
+        "url": "http://backrooms-wiki.wikidot.com/level-11-1",
+        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-11-1/thumb.png",
+        "class": "1",
+        "communities": [
+            "The Remnant",
+            "Endburg"
+        ],
+        "entrances": [
+            "11"
+        ],
+        "exits": [
+            "1",
+            "11"
+        ]
+    },
+    {
+        "id": "11.2",
+        "name": "Scene-01.2",
+        "url": "http://backrooms-wiki.wikidot.com/level-11-2",
+        "image": "http://backrooms-sandbox-2.wikidot.com/local--files/univ-wise-explorer-4/2",
+        "class": "0",
+        "communities": [
+            "M.E.G. - Base Omicron"
+        ],
+        "entrances": [
+            "9",
+            "11",
+            "36",
+            "59",
+            "78",
+            "121",
+            "155",
+            "189",
+            "283",
+            "852"
+        ],
+        "exits": [
+            "11",
+            "36",
+            "59",
+            "78",
+            "121",
+            "155",
+            "189",
+            "283",
+            "852"
+        ]
+    },
+    {
+        "id": "11.3",
+        "name": "Level 11.3",
+        "url": "http://backrooms-wiki.wikidot.com/level-11-3",
+        "image": "http://backrooms-sandbox-2.wikidot.com/local--files/collab:noctilucian2/RLD1.jpg",
+        "class": "5",
+        "communities": [],
+        "entrances": [
+            "6.2",
+            "11"
+        ],
+        "exits": [
+            "11"
+        ]
+    },
+    {
         "id": "12",
         "name": "Level 12",
         "url": "http://backrooms-wiki.wikidot.com/level-12",
@@ -958,6 +1560,21 @@
             "322",
             "404",
             "789"
+        ]
+    },
+    {
+        "id": "12.1",
+        "name": "Level 12.1",
+        "url": "http://backrooms-wiki.wikidot.com/level-12-1",
+        "image": "",
+        "class": "Undetermined",
+        "communities": [],
+        "entrances": [
+            "12"
+        ],
+        "exits": [
+            "12",
+            "95"
         ]
     },
     {
@@ -1051,6 +1668,23 @@
         ]
     },
     {
+        "id": "15.1",
+        "name": "Level 15.1",
+        "url": "http://backrooms-wiki.wikidot.com/level-15-1",
+        "image": "https://imgur.com/Undeleg.png",
+        "class": "Lambda",
+        "communities": [
+            "The Line Steppers",
+            "The Marauders"
+        ],
+        "entrances": [
+            "15"
+        ],
+        "exits": [
+            "15"
+        ]
+    },
+    {
         "id": "16",
         "name": "Level 16",
         "url": "http://backrooms-wiki.wikidot.com/level-16",
@@ -1128,6 +1762,29 @@
             "841",
             "945",
             "986"
+        ]
+    },
+    {
+        "id": "18.1",
+        "name": "Level 18.1",
+        "url": "http://backrooms-wiki.wikidot.com/level-18-1",
+        "image": "https://backrooms-wiki.wdfiles.com/local--files/fragment%3Alevel-18-1-1/red.jpeg",
+        "class": "φ (Phi)",
+        "communities": [
+            "The Promised (Mysterialand)",
+            "The Cursed (Memoryland)"
+        ],
+        "entrances": [
+            "14",
+            "18",
+            "264",
+            "612",
+            "666",
+            "854"
+        ],
+        "exits": [
+            "18",
+            "200"
         ]
     },
     {
@@ -1712,6 +2369,30 @@
         ]
     },
     {
+        "id": "36.1",
+        "name": "Level 36.1",
+        "url": "http://backrooms-wiki.wikidot.com/level-36-1",
+        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-36-1/Level-36.1.jpg",
+        "class": "1",
+        "communities": [
+            "Backrooms Airways - Base Teiran (Level 36.1 Branch)"
+        ],
+        "entrances": [
+            "36"
+        ],
+        "exits": [
+            "4",
+            "11",
+            "13",
+            "25",
+            "30",
+            "32",
+            "33",
+            "34",
+            "36"
+        ]
+    },
+    {
         "id": "37",
         "name": "Level 37",
         "url": "http://backrooms-wiki.wikidot.com/level-37",
@@ -1749,6 +2430,20 @@
             "233",
             "251",
             "309"
+        ]
+    },
+    {
+        "id": "37.1",
+        "name": "Level 37.1",
+        "url": "http://backrooms-wiki.wikidot.com/level-37-1",
+        "image": "https://backrooms-sandbox-2.wdfiles.com/local--files/collab%3Aviv-contest/corrupted-f.jpg",
+        "class": "3",
+        "communities": [],
+        "entrances": [
+            "37"
+        ],
+        "exits": [
+            "37"
         ]
     },
     {
@@ -2107,6 +2802,24 @@
         ]
     },
     {
+        "id": "46.1",
+        "name": "Ground 46",
+        "url": "http://backrooms-wiki.wikidot.com/level-46-1",
+        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-46-1/monastery.png",
+        "class": "Mitis",
+        "communities": [
+            "The Eyes of Argos"
+        ],
+        "entrances": [
+            "46",
+            "the-profane-burial-site"
+        ],
+        "exits": [
+            "46",
+            "the-profane-burial-site"
+        ]
+    },
+    {
         "id": "47",
         "name": "Level 47",
         "url": "http://backrooms-wiki.wikidot.com/level-47",
@@ -2162,6 +2875,24 @@
         ]
     },
     {
+        "id": "48.1",
+        "name": "Ground 48.1",
+        "url": "http://backrooms-wiki.wikidot.com/level-48-1",
+        "image": "http://backrooms-sandbox-2.wikidot.com/local--files/noctilucian/Noctilucent1.jpg",
+        "class": "Mitis",
+        "communities": [
+            "The Eyes of Argos"
+        ],
+        "entrances": [
+            "48",
+            "the-enclave"
+        ],
+        "exits": [
+            "48",
+            "the-enclave"
+        ]
+    },
+    {
         "id": "49",
         "name": "Level 49",
         "url": "http://backrooms-wiki.wikidot.com/level-49",
@@ -2183,1094 +2914,6 @@
             "49.2",
             "121",
             "581"
-        ]
-    },
-    {
-        "id": "50",
-        "name": "Level 50",
-        "url": "http://backrooms-wiki.wikidot.com/level-50",
-        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-50/Level50.jpg",
-        "class": "3",
-        "communities": [],
-        "entrances": [
-            "25",
-            "35",
-            "176",
-            "399"
-        ],
-        "exits": [
-            "25",
-            "69",
-            "80"
-        ]
-    },
-    {
-        "id": "100",
-        "name": "Level 100",
-        "url": "http://backrooms-wiki.wikidot.com/level-100",
-        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-100/new100.jpg",
-        "class": "Undetermined",
-        "communities": [],
-        "entrances": [
-            "11",
-            "48",
-            "97",
-            "125",
-            "215",
-            "880"
-        ],
-        "exits": [
-            "0"
-        ]
-    },
-    {
-        "id": "101",
-        "name": "Level 101",
-        "url": "http://backrooms-wiki.wikidot.com/level-101",
-        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-101/field.jpg",
-        "class": "2",
-        "communities": [],
-        "entrances": [
-            "2",
-            "609"
-        ],
-        "exits": [
-            "0",
-            "609"
-        ]
-    },
-    {
-        "id": "102",
-        "name": "Level 102",
-        "url": "http://backrooms-wiki.wikidot.com/level-102",
-        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-102/IMG_4964.jpg",
-        "class": "3",
-        "communities": [],
-        "entrances": [
-            "13",
-            "141",
-            "224"
-        ],
-        "exits": [
-            "41",
-            "103",
-            "109"
-        ]
-    },
-    {
-        "id": "103",
-        "name": "Level 103",
-        "url": "http://backrooms-wiki.wikidot.com/level-103",
-        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-103/two",
-        "class": "1",
-        "communities": [
-            "The Raiders"
-        ],
-        "entrances": [
-            "17",
-            "98",
-            "102"
-        ],
-        "exits": [
-            "8",
-            "109",
-            "711",
-            "831"
-        ]
-    },
-    {
-        "id": "104",
-        "name": "Level 104",
-        "url": "http://backrooms-wiki.wikidot.com/level-104",
-        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-104/the_fortress.png",
-        "class": "4e",
-        "communities": [
-            "The Fortress",
-            "The Asylum"
-        ],
-        "entrances": [
-            "11",
-            "28",
-            "290"
-        ],
-        "exits": [
-            "9",
-            "73",
-            "183"
-        ]
-    },
-    {
-        "id": "0.1",
-        "name": "Level 0.1",
-        "url": "http://backrooms-wiki.wikidot.com/level-0-1",
-        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-0-1/zenith-station.jpg",
-        "class": "0",
-        "communities": [],
-        "entrances": [
-            "0"
-        ],
-        "exits": [
-            "0",
-            "1"
-        ]
-    },
-    {
-        "id": "0.2",
-        "name": "Level 0.2",
-        "url": "http://backrooms-wiki.wikidot.com/level-0-2",
-        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-0-2/RemodelledHQ.jpg",
-        "class": "3",
-        "communities": [],
-        "entrances": [
-            "0"
-        ],
-        "exits": [
-            "0"
-        ]
-    },
-    {
-        "id": "0.3",
-        "name": "Level 0.3",
-        "url": "http://backrooms-wiki.wikidot.com/level-0-3",
-        "image": "http://backrooms-sandbox-2.wdfiles.com/local--files/cursedsliver-the-ii/Part2",
-        "class": "3",
-        "communities": [],
-        "entrances": [
-            "0"
-        ],
-        "exits": [
-            "0"
-        ]
-    },
-    {
-        "id": "manila-room",
-        "name": "Manila Room",
-        "url": "http://backrooms-wiki.wikidot.com/manila-room",
-        "image": "http://backrooms-wiki.wdfiles.com/local--files/manila-room/ManilaRoom.jpg",
-        "class": "0",
-        "communities": [],
-        "entrances": [
-            "0"
-        ],
-        "exits": [
-            "0"
-        ]
-    },
-    {
-        "id": "red-rooms",
-        "name": "Red Rooms",
-        "url": "http://backrooms-wiki.wikidot.com/red-rooms",
-        "image": "http://scutoidbox.wikidot.com/local--files/red-rooms/eggrooms-red-2.png",
-        "class": "3",
-        "communities": [],
-        "entrances": [
-            "0"
-        ],
-        "exits": [
-            "0"
-        ]
-    },
-    {
-        "id": "the-torment",
-        "name": "The Torment",
-        "url": "http://backrooms-wiki.wikidot.com/the-torment",
-        "image": "http://backrooms-wiki.wikidot.com/local--files/the-torment/statueman",
-        "class": "Undetermined",
-        "communities": [],
-        "entrances": [
-            "0"
-        ],
-        "exits": [
-            "0"
-        ]
-    },
-    {
-        "id": "1.1-1",
-        "name": "Level 1.1 Sector 1",
-        "url": "http://backrooms-wiki.wikidot.com/level-1-1",
-        "image": "http://backrooms-sandbox-2.wikidot.com/local--files/kvn7-level-1-1/Sector-1",
-        "class": "0",
-        "communities": [
-            "M.E.G. - Outpost 1"
-        ],
-        "entrances": [
-            "1",
-            "1.1-2"
-        ],
-        "exits": [
-            "1",
-            "1.1-2"
-        ]
-    },
-    {
-        "id": "1.1-2",
-        "name": "Level 1.1 Sector 2",
-        "url": "http://backrooms-wiki.wikidot.com/level-1-1",
-        "image": "http://backrooms-sandbox-2.wikidot.com/local--files/kvn7-level-1-1/Sector-2",
-        "class": "2",
-        "communities": [
-            "M.E.G. - Outpost 2",
-            "M.E.G. - Outpost 3",
-            "Jakob's Hut"
-        ],
-        "entrances": [
-            "1.1-3",
-            "1.1-1"
-        ],
-        "exits": [
-            "1.1-3",
-            "1.1-1"
-        ]
-    },
-    {
-        "id": "1.1-3",
-        "name": "Level 1.1 Sector 3",
-        "url": "http://backrooms-wiki.wikidot.com/level-1-1",
-        "image": "http://backrooms-sandbox-2.wikidot.com/local--files/kvn7-level-1-1/Sector-3",
-        "class": "4",
-        "communities": [
-            "M.E.G. - Outpost 4"
-        ],
-        "entrances": [
-            "1.1-4",
-            "1.1-2"
-        ],
-        "exits": [
-            "1.1-4",
-            "1.1-2"
-        ]
-    },
-    {
-        "id": "1.1-4",
-        "name": "Level 1.1 Sector 4",
-        "url": "http://backrooms-wiki.wikidot.com/level-1-1",
-        "image": "http://backrooms-sandbox-2.wikidot.com/local--files/kvn7-level-1-1/Sector-4",
-        "class": "Deadzone",
-        "communities": [
-            "M.E.G. - Outpost 5 (Abandoned)"
-        ],
-        "entrances": [
-            "1.1-5",
-            "1.1-3"
-        ],
-        "exits": [
-            "1.1-5",
-            "1.1-3"
-        ]
-    },
-    {
-        "id": "1.1-5",
-        "name": "Level 1.1 Sector 5",
-        "url": "http://backrooms-wiki.wikidot.com/level-1-1",
-        "image": "http://backrooms-sandbox-2.wikidot.com/local--files/kvn7-level-1-1/Sector-5",
-        "class": "N/A",
-        "communities": [],
-        "entrances": [
-            "1.1-4"
-        ],
-        "exits": [
-            "1.1-4"
-        ]
-    },
-    {
-        "id": "1.3",
-        "name": "Level 1.3",
-        "url": "http://backrooms-wiki.wikidot.com/level-1-3",
-        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-1-3/rot.png",
-        "class": "Deadzone",
-        "communities": [
-            "M.E.G. - The Ward (Abandoned)"
-        ],
-        "entrances": [
-            "1"
-        ],
-        "exits": [
-            "1"
-        ]
-    },
-    {
-        "id": "1.4",
-        "name": "Level √2",
-        "url": "http://backrooms-wiki.wikidot.com/level-1-4",
-        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-1-4/5345271930_a457a69662_b.jpg",
-        "class": "Sigma",
-        "communities": [],
-        "entrances": [
-            "1",
-            "81"
-        ],
-        "exits": [
-            "1",
-            "81"
-        ]
-    },
-    {
-        "id": "1.5",
-        "name": "Level 1.5",
-        "url": "http://backrooms-wiki.wikidot.com/level-1-5",
-        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-1-5/Level-1.5.jpg",
-        "class": "Undetermined",
-        "communities": [],
-        "entrances": [
-            "1",
-            "21"
-        ],
-        "exits": [
-            "1",
-            "21"
-        ]
-    },
-    {
-        "id": "traders-vault",
-        "name": "Traders Vault",
-        "url": "http://backrooms-wiki.wikidot.com/traders-vault",
-        "image": "http://liminaldoctor.wdfiles.com/local--files/gallery/storage",
-        "class": "1",
-        "communities": [
-            "B.N.T.G. - \"Traders Vault\" Crew"
-        ],
-        "entrances": [
-            "1"
-        ],
-        "exits": [
-            "1"
-        ]
-    },
-    {
-        "id": "2.2",
-        "name": "Level 2.2",
-        "url": "http://backrooms-wiki.wikidot.com/level-2-2",
-        "image": "https://static.wikia.nocookie.net/backrooms/images/4/44/77room1.png",
-        "class": "4",
-        "communities": [],
-        "entrances": [
-            "2",
-            "3"
-        ],
-        "exits": [
-            "2",
-            "3",
-            "98"
-        ]
-    },
-    {
-        "id": "office-space-el3a",
-        "name": "Office Space EL3A",
-        "url": "http://backrooms-wiki.wikidot.com/office-space-el3a",
-        "image": "https://live.staticflickr.com/3218/2765681389_c206175049_4k.jpg",
-        "class": "1",
-        "communities": [
-            "B.N.T.G."
-        ],
-        "entrances": [
-            "2"
-        ],
-        "exits": [
-            "2"
-        ]
-    },
-    {
-        "id": "3.1",
-        "name": "Level 3.1",
-        "url": "http://backrooms-wiki.wikidot.com/level-3-1",
-        "image": "http://backrooms-wiki.wikidot.com/local--files/level-3-1/two",
-        "class": "4",
-        "communities": [
-            "M.E.G. - Base Gamma-B",
-            "B.N.T.G. - Space Complex Outpost"
-        ],
-        "entrances": [
-            "3"
-        ],
-        "exits": [
-            "3",
-            "4"
-        ]
-    },
-    {
-        "id": "4.2",
-        "name": "Level 4.2",
-        "url": "http://backrooms-wiki.wikidot.com/level-4-2",
-        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-4-2/new",
-        "class": "0",
-        "communities": [],
-        "entrances": [
-            "4",
-            "4.4",
-            "9.2"
-        ],
-        "exits": [
-            "0",
-            "1",
-            "4",
-            "4.4",
-            "5"
-        ]
-    },
-    {
-        "id": "4.3",
-        "name": "Level 4.3",
-        "url": "http://backrooms-wiki.wikidot.com/level-4-3",
-        "image": "http://backrooms-wiki.wikidot.com/local--files/level-4-3/4.3New",
-        "class": "1",
-        "communities": [],
-        "entrances": [
-            "4",
-            "4.4"
-        ],
-        "exits": [
-            "4",
-            "4.4"
-        ]
-    },
-    {
-        "id": "4.4",
-        "name": "Level 4.4",
-        "url": "http://backrooms-wiki.wikidot.com/level-4-4",
-        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-4-4/level4-4.jpg",
-        "class": "5b",
-        "communities": [],
-        "entrances": [
-            "4",
-            "4.2",
-            "4.3",
-            "611"
-        ],
-        "exits": [
-            "4",
-            "4.2",
-            "4.3",
-            "7"
-        ]
-    },
-    {
-        "id": "the-surveillance-room",
-        "name": "The Surveillance Room",
-        "url": "http://backrooms-wiki.wikidot.com/the-surveillance-room",
-        "image": "",
-        "class": "1",
-        "communities": [],
-        "entrances": [
-            "0",
-            "1",
-            "3",
-            "4",
-            "903",
-            "the-hub"
-        ],
-        "exits": [
-            "0",
-            "1",
-            "4",
-            "5",
-            "9",
-            "11",
-            "13",
-            "16",
-            "20",
-            "30",
-            "32",
-            "35",
-            "36",
-            "40"
-        ]
-    },
-    {
-        "id": "5.1",
-        "name": "Level 5.1",
-        "url": "http://backrooms-wiki.wikidot.com/level-5-1",
-        "image": "https://natedagreat563.wdfiles.com/local--files/storage-unit-3/Entrance",
-        "class": "Casino",
-        "communities": [],
-        "entrances": [
-            "5"
-        ],
-        "exits": [
-            "5"
-        ]
-    },
-    {
-        "id": "5.2",
-        "name": "Level 5.2",
-        "url": "http://backrooms-wiki.wikidot.com/level-5-2",
-        "image": "http://frozenflex1337.wdfiles.com/local--files/level-5-2/hotel1cropped",
-        "class": "3",
-        "communities": [
-            "Stairtown",
-            "Polefall"
-        ],
-        "entrances": [
-            "5"
-        ],
-        "exits": [
-            "5"
-        ]
-    },
-    {
-        "id": "5.3",
-        "name": "Level 5.3",
-        "url": "http://backrooms-wiki.wikidot.com/level-5-3",
-        "image": "http://backrooms-wiki.wikidot.com/local--files/level-5-3/george-peabody-bucherei-1629308_1280.jpg",
-        "class": "Pending",
-        "communities": [],
-        "entrances": [
-            "5"
-        ],
-        "exits": [
-            "5"
-        ]
-    },
-    {
-        "id": "6.1",
-        "name": "Level 6.1",
-        "url": "http://backrooms-wiki.wikidot.com/level-6-1",
-        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-6-1/vending_machine.png",
-        "class": "1",
-        "communities": [
-            "M.E.G. - Level 6 Access Outpost",
-            "The Snackrooms Staff",
-            "Camp Amber - Level 6.1 Outpost",
-            "The Guild of Many"
-        ],
-        "entrances": [
-            "4",
-            "6",
-            "11"
-        ],
-        "exits": [
-            "3",
-            "6",
-            "11",
-            "26",
-            "the-blue-channel"
-        ]
-    },
-    {
-        "id": "6.2",
-        "name": "Level 6.2",
-        "url": "http://backrooms-wiki.wikidot.com/level-6-2",
-        "image": "http://vivarium.wdfiles.com/local--files/backrooms%3Alevel6-2/neon3",
-        "class": "Undetermined",
-        "communities": [],
-        "entrances": [
-            "6"
-        ],
-        "exits": [
-            "6",
-            "11.3"
-        ]
-    },
-    {
-        "id": "6.3",
-        "name": "Level 6.3",
-        "url": "http://backrooms-wiki.wikidot.com/level-6-3",
-        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-6-3/level-6-3_sky.png",
-        "class": "Pending",
-        "communities": [],
-        "entrances": [
-            "6",
-            "6.31"
-        ],
-        "exits": [
-            "6",
-            "6.31"
-        ]
-    },
-    {
-        "id": "6.31",
-        "name": "Level 6.31",
-        "url": "http://backrooms-wiki.wikidot.com/level-6-31",
-        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-6-31/building.jpg",
-        "class": "Habitable",
-        "communities": [
-            "Level 6.31 Community"
-        ],
-        "entrances": [
-            "6",
-            "6.3"
-        ],
-        "exits": [
-            "6",
-            "6.3"
-        ]
-    },
-    {
-        "id": "7.7",
-        "name": "Level 7.7",
-        "url": "http://backrooms-wiki.wikidot.com/level-7-7",
-        "image": "https://i.postimg.cc/nVq5gh6j/Rock-and-Lighthouse-2.jpg",
-        "class": "5e",
-        "communities": [],
-        "entrances": [
-            "7"
-        ],
-        "exits": [
-            "7"
-        ]
-    },
-    {
-        "id": "7.9",
-        "name": "Level 7.9",
-        "url": "http://backrooms-wiki.wikidot.com/level-7-9",
-        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-7-9/level7.9.jpg",
-        "class": "1",
-        "communities": [
-            "Level 7.9 residents",
-            "B.N.T.G. - Recourse Centre"
-        ],
-        "entrances": [
-            "7",
-            "135"
-        ],
-        "exits": [
-            "7",
-            "8",
-            "28",
-            "427"
-        ]
-    },
-    {
-        "id": "the-hadal-zone",
-        "name": "The Hadal Zone",
-        "url": "http://backrooms-wiki.wikidot.com/the-hadal-zone",
-        "image": "",
-        "class": "Deadzone",
-        "communities": [],
-        "entrances": [
-            "7"
-        ],
-        "exits": [
-            "7"
-        ]
-    },
-    {
-        "id": "8.1",
-        "name": "Level 8.1",
-        "url": "http://backrooms-wiki.wikidot.com/level-8-1",
-        "image": "http://backrooms-wiki.wikidot.com/local--files/level-8-1/Level8.1",
-        "class": "4",
-        "communities": [],
-        "entrances": [
-            "8"
-        ],
-        "exits": [
-            "8"
-        ]
-    },
-    {
-        "id": "the-sanctum",
-        "name": "The Sanctum Subterraneous",
-        "url": "http://backrooms-wiki.wikidot.com/the-sanctum",
-        "image": "http://backrooms-wiki.wikidot.com/local--files/the-sanctum/SANCTUM",
-        "class": "Eleos",
-        "communities": [
-            "The Eyes of Argos"
-        ],
-        "entrances": [
-            "8",
-            "63"
-        ],
-        "exits": [
-            "8"
-        ]
-    },
-    {
-        "id": "9.1",
-        "name": "Level 9.1",
-        "url": "http://backrooms-wiki.wikidot.com/level-9-1",
-        "image": "http://orchestrator-of-entropy.wdfiles.com/local--files/level-9-1/ground_zero.png",
-        "class": "Pending",
-        "communities": [],
-        "entrances": [
-            "9"
-        ],
-        "exits": [
-            "9"
-        ]
-    },
-    {
-        "id": "9.2",
-        "name": "Level 9.2",
-        "url": "http://backrooms-wiki.wikidot.com/level-9-2",
-        "image": "http://backrooms-sandbox-2.wikidot.com/local--files/noctilucian/BlackMarket2.jpg",
-        "class": "2",
-        "communities": [
-            "The Nonsense Factory",
-            "Eternal Repository Database 009-2",
-            "Camp Blacklight"
-        ],
-        "entrances": [
-            "9"
-        ],
-        "exits": [
-            "1",
-            "4",
-            "4.2",
-            "5",
-            "9"
-        ]
-    },
-    {
-        "id": "9.3",
-        "name": "Level 9.3",
-        "url": "http://backrooms-wiki.wikidot.com/level-9-3",
-        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-9-3/Road1.jpg",
-        "class": "Undetermined",
-        "communities": [],
-        "entrances": [
-            "9"
-        ],
-        "exits": [
-            "9"
-        ]
-    },
-    {
-        "id": "9.5",
-        "name": "Level 9.5",
-        "url": "http://backrooms-wiki.wikidot.com/level-9-5",
-        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-9-5/snowing",
-        "class": "Pending",
-        "communities": [
-            "Rockwell's Respite"
-        ],
-        "entrances": [
-            "9"
-        ],
-        "exits": [
-            "9"
-        ]
-    },
-    {
-        "id": "10.1",
-        "name": "Level 10.1",
-        "url": "http://backrooms-wiki.wikidot.com/level-10-1",
-        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-10-1/redlake.png",
-        "class": "5E",
-        "communities": [],
-        "entrances": [
-            "10"
-        ],
-        "exits": [
-            "10"
-        ]
-    },
-    {
-        "id": "10.2",
-        "name": "Level 10.2",
-        "url": "http://backrooms-wiki.wikidot.com/level-10-2",
-        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-10-2/haybale1",
-        "class": "1",
-        "communities": [
-            "The Harvesters"
-        ],
-        "entrances": [
-            "10",
-            "81"
-        ],
-        "exits": [
-            "4",
-            "10"
-        ]
-    },
-    {
-        "id": "11.1",
-        "name": "Asset 11.1",
-        "url": "http://backrooms-wiki.wikidot.com/level-11-1",
-        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-11-1/thumb.png",
-        "class": "1",
-        "communities": [
-            "The Remnant",
-            "Endburg"
-        ],
-        "entrances": [
-            "11"
-        ],
-        "exits": [
-            "1",
-            "11"
-        ]
-    },
-    {
-        "id": "11.2",
-        "name": "Scene-01.2",
-        "url": "http://backrooms-wiki.wikidot.com/level-11-2",
-        "image": "http://backrooms-sandbox-2.wikidot.com/local--files/univ-wise-explorer-4/2",
-        "class": "0",
-        "communities": [
-            "M.E.G. - Base Omicron"
-        ],
-        "entrances": [
-            "9",
-            "11",
-            "36",
-            "59",
-            "78",
-            "121",
-            "155",
-            "189",
-            "283",
-            "852"
-        ],
-        "exits": [
-            "11",
-            "36",
-            "59",
-            "78",
-            "121",
-            "155",
-            "189",
-            "283",
-            "852"
-        ]
-    },
-    {
-        "id": "11.3",
-        "name": "Level 11.3",
-        "url": "http://backrooms-wiki.wikidot.com/level-11-3",
-        "image": "http://backrooms-sandbox-2.wikidot.com/local--files/collab:noctilucian2/RLD1.jpg",
-        "class": "5",
-        "communities": [],
-        "entrances": [
-            "6.2",
-            "11"
-        ],
-        "exits": [
-            "11"
-        ]
-    },
-    {
-        "id": "after-hours",
-        "name": "AFTER HOURS",
-        "url": "http://backrooms-wiki.wikidot.com/after-hours",
-        "image": "http://sky3-nuliminal.wikidot.com/local--files/after-hours/Dark%20City",
-        "class": "Deadzone",
-        "communities": [],
-        "entrances": [
-            "11"
-        ],
-        "exits": [
-            "11"
-        ]
-    },
-    {
-        "id": "the-chamber",
-        "name": "The Chamber",
-        "url": "http://backrooms-wiki.wikidot.com/the-chamber",
-        "image": "",
-        "class": "Undetermined",
-        "communities": [],
-        "entrances": [
-            "11"
-        ],
-        "exits": [
-            "11"
-        ]
-    },
-    {
-        "id": "the-headquarters",
-        "name": "The Headquarters",
-        "url": "http://backrooms-wiki.wikidot.com/the-headquarters",
-        "image": "https://i.imgur.com/y8feL9d.jpg",
-        "class": "Argos",
-        "communities": [
-            "The Eyes of Argos"
-        ],
-        "entrances": [
-            "11"
-        ],
-        "exits": [
-            "11"
-        ]
-    },
-    {
-        "id": "radio-backrooms-studio",
-        "name": "Radio Backrooms' Studio",
-        "url": "http://backrooms-wiki.wikidot.com/radio-backrooms-studio",
-        "image": "https://i.imgur.com/b8UwveR.jpg",
-        "class": "0",
-        "communities": [],
-        "entrances": [
-            "4",
-            "11",
-            "21"
-        ],
-        "exits": [
-            "11"
-        ]
-    },
-    {
-        "id": "12.1",
-        "name": "Level 12.1",
-        "url": "http://backrooms-wiki.wikidot.com/level-12-1",
-        "image": "",
-        "class": "Undetermined",
-        "communities": [],
-        "entrances": [
-            "12"
-        ],
-        "exits": [
-            "12",
-            "95"
-        ]
-    },
-    {
-        "id": "15.1",
-        "name": "Level 15.1",
-        "url": "http://backrooms-wiki.wikidot.com/level-15-1",
-        "image": "https://imgur.com/Undeleg.png",
-        "class": "Lambda",
-        "communities": [
-            "The Line Steppers",
-            "The Marauders"
-        ],
-        "entrances": [
-            "15"
-        ],
-        "exits": [
-            "15"
-        ]
-    },
-    {
-        "id": "18.1",
-        "name": "Level 18.1",
-        "url": "http://backrooms-wiki.wikidot.com/level-18-1",
-        "image": "https://backrooms-wiki.wdfiles.com/local--files/fragment%3Alevel-18-1-1/red.jpeg",
-        "class": "φ (Phi)",
-        "communities": [
-            "The Promised (Mysterialand)",
-            "The Cursed (Memoryland)"
-        ],
-        "entrances": [
-            "14",
-            "18",
-            "264",
-            "612",
-            "666",
-            "854"
-        ],
-        "exits": [
-            "18",
-            "200"
-        ]
-    },
-    {
-        "id": "36.1",
-        "name": "Level 36.1",
-        "url": "http://backrooms-wiki.wikidot.com/level-36-1",
-        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-36-1/Level-36.1.jpg",
-        "class": "1",
-        "communities": [
-            "Backrooms Airways - Base Teiran (Level 36.1 Branch)"
-        ],
-        "entrances": [
-            "36"
-        ],
-        "exits": [
-            "4",
-            "11",
-            "13",
-            "25",
-            "30",
-            "32",
-            "33",
-            "34",
-            "36"
-        ]
-    },
-    {
-        "id": "37.1",
-        "name": "Level 37.1",
-        "url": "http://backrooms-wiki.wikidot.com/level-37-1",
-        "image": "https://backrooms-sandbox-2.wdfiles.com/local--files/collab%3Aviv-contest/corrupted-f.jpg",
-        "class": "3",
-        "communities": [],
-        "entrances": [
-            "37"
-        ],
-        "exits": [
-            "37"
-        ]
-    },
-    {
-        "id": "the-atrium",
-        "name": "The Atrium",
-        "url": "http://backrooms-wiki.wikidot.com/the-atrium",
-        "image": "http://backrooms-sandbox-2.wikidot.com/local--files/noctilucian/Opryland%20Hotel%2C%20Nashville%2C%20Tennessee.jpg",
-        "class": "Habitable",
-        "communities": [],
-        "entrances": [
-            "43"
-        ],
-        "exits": [
-            "43"
-        ]
-    },
-    {
-        "id": "46.1",
-        "name": "Ground 46",
-        "url": "http://backrooms-wiki.wikidot.com/level-46-1",
-        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-46-1/monastery.png",
-        "class": "Mitis",
-        "communities": [
-            "The Eyes of Argos"
-        ],
-        "entrances": [
-            "46",
-            "the-profane-burial-site"
-        ],
-        "exits": [
-            "46",
-            "the-profane-burial-site"
-        ]
-    },
-    {
-        "id": "the-profane-burial-site",
-        "name": "The Profane Burial Site",
-        "url": "http://backrooms-wiki.wikidot.com/the-profane-burial-site",
-        "image": "http://backrooms-wiki.wdfiles.com/local--files/the-profane-burial-site/burial%20site",
-        "class": "Peccatum",
-        "communities": [
-            "The Eyes of Argos"
-        ],
-        "entrances": [
-            "46.1"
-        ],
-        "exits": [
-            "46.1"
-        ]
-    },
-    {
-        "id": "48.1",
-        "name": "Ground 48.1",
-        "url": "http://backrooms-wiki.wikidot.com/level-48-1",
-        "image": "http://backrooms-sandbox-2.wikidot.com/local--files/noctilucian/Noctilucent1.jpg",
-        "class": "Mitis",
-        "communities": [
-            "The Eyes of Argos"
-        ],
-        "entrances": [
-            "48",
-            "the-enclave"
-        ],
-        "exits": [
-            "48",
-            "the-enclave"
-        ]
-    },
-    {
-        "id": "the-enclave",
-        "name": "The Enclave",
-        "url": "http://backrooms-wiki.wikidot.com/the-enclave",
-        "image": "http://backrooms-wiki.wikidot.com/local--files/the-enclave/Enclave1.jpg",
-        "class": "Mitis",
-        "communities": [
-            "The Eyes of Argos"
-        ],
-        "entrances": [
-            "48.1"
-        ],
-        "exits": [
-            "48.1"
         ]
     },
     {
@@ -3305,6 +2948,25 @@
             "105",
             "196",
             "cathedrale-celeste"
+        ]
+    },
+    {
+        "id": "50",
+        "name": "Level 50",
+        "url": "http://backrooms-wiki.wikidot.com/level-50",
+        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-50/Level50.jpg",
+        "class": "3",
+        "communities": [],
+        "entrances": [
+            "25",
+            "35",
+            "176",
+            "399"
+        ],
+        "exits": [
+            "25",
+            "69",
+            "80"
         ]
     },
     {
@@ -3643,6 +3305,19 @@
             "925",
             "the-sanctum"
         ]
+    },
+    {
+        "id": "63.3",
+        "name": "Level 63.3",
+        "url": "http://backrooms-wiki.wikidot.com/level-63-3",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "39"
+        ],
+        "exits": []
     },
     {
         "id": "64",
@@ -4478,6 +4153,101 @@
         "exits": [
             "7",
             "389"
+        ]
+    },
+    {
+        "id": "100",
+        "name": "Level 100",
+        "url": "http://backrooms-wiki.wikidot.com/level-100",
+        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-100/new100.jpg",
+        "class": "Undetermined",
+        "communities": [],
+        "entrances": [
+            "11",
+            "48",
+            "97",
+            "125",
+            "215",
+            "880"
+        ],
+        "exits": [
+            "0"
+        ]
+    },
+    {
+        "id": "101",
+        "name": "Level 101",
+        "url": "http://backrooms-wiki.wikidot.com/level-101",
+        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-101/field.jpg",
+        "class": "2",
+        "communities": [],
+        "entrances": [
+            "2",
+            "609"
+        ],
+        "exits": [
+            "0",
+            "609"
+        ]
+    },
+    {
+        "id": "102",
+        "name": "Level 102",
+        "url": "http://backrooms-wiki.wikidot.com/level-102",
+        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-102/IMG_4964.jpg",
+        "class": "3",
+        "communities": [],
+        "entrances": [
+            "13",
+            "141",
+            "224"
+        ],
+        "exits": [
+            "41",
+            "103",
+            "109"
+        ]
+    },
+    {
+        "id": "103",
+        "name": "Level 103",
+        "url": "http://backrooms-wiki.wikidot.com/level-103",
+        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-103/two",
+        "class": "1",
+        "communities": [
+            "The Raiders"
+        ],
+        "entrances": [
+            "17",
+            "98",
+            "102"
+        ],
+        "exits": [
+            "8",
+            "109",
+            "711",
+            "831"
+        ]
+    },
+    {
+        "id": "104",
+        "name": "Level 104",
+        "url": "http://backrooms-wiki.wikidot.com/level-104",
+        "image": "http://backrooms-wiki.wdfiles.com/local--files/level-104/the_fortress.png",
+        "class": "4e",
+        "communities": [
+            "The Fortress",
+            "The Asylum"
+        ],
+        "entrances": [
+            "11",
+            "28",
+            "290"
+        ],
+        "exits": [
+            "9",
+            "73",
+            "183"
         ]
     },
     {
@@ -8374,6 +8144,19 @@
         ]
     },
     {
+        "id": "301",
+        "name": "Level 301",
+        "url": "http://backrooms-wiki.wikidot.com/301",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [],
+        "exits": [
+            "474"
+        ]
+    },
+    {
         "id": "302",
         "name": "Level 302",
         "url": "http://backrooms-wiki.wikidot.com/level-302",
@@ -8451,6 +8234,19 @@
         ]
     },
     {
+        "id": "306",
+        "name": "Level 306",
+        "url": "http://backrooms-wiki.wikidot.com/306",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [],
+        "exits": [
+            "109"
+        ]
+    },
+    {
         "id": "309",
         "name": "Level 309",
         "url": "http://backrooms-wiki.wikidot.com/level-309",
@@ -8480,6 +8276,36 @@
         ]
     },
     {
+        "id": "310",
+        "name": "Level 310",
+        "url": "http://backrooms-wiki.wikidot.com/level-310",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "57",
+            "321"
+        ],
+        "exits": [
+            "130",
+            "173"
+        ]
+    },
+    {
+        "id": "311",
+        "name": "Level 311",
+        "url": "http://backrooms-wiki.wikidot.com/level-311",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "188"
+        ],
+        "exits": []
+    },
+    {
         "id": "313",
         "name": "Level 313",
         "url": "http://backrooms-wiki.wikidot.com/level-313",
@@ -8498,6 +8324,22 @@
         "exits": [
             "474",
             "911"
+        ]
+    },
+    {
+        "id": "314",
+        "name": "Level 314",
+        "url": "http://backrooms-wiki.wikidot.com/314",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "148",
+            "365"
+        ],
+        "exits": [
+            "148"
         ]
     },
     {
@@ -8526,6 +8368,33 @@
             "158",
             "381",
             "515"
+        ]
+    },
+    {
+        "id": "319",
+        "name": "Level 319",
+        "url": "http://backrooms-wiki.wikidot.com/319",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "166",
+            "201",
+            "404"
+        ],
+        "exits": [
+            "56",
+            "64",
+            "69",
+            "166",
+            "201",
+            "238",
+            "256",
+            "404",
+            "405",
+            "666",
+            "841"
         ]
     },
     {
@@ -8630,6 +8499,38 @@
         ]
     },
     {
+        "id": "328",
+        "name": "Level 328",
+        "url": "http://backrooms-wiki.wikidot.com/level-328",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "141"
+        ],
+        "exits": [
+            "387"
+        ]
+    },
+    {
+        "id": "329",
+        "name": "Level 329",
+        "url": "http://backrooms-wiki.wikidot.com/329",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "150",
+            "309"
+        ],
+        "exits": [
+            "80",
+            "388"
+        ]
+    },
+    {
         "id": "330",
         "name": "Level 330",
         "url": "http://backrooms-wiki.wikidot.com/level-330",
@@ -8657,6 +8558,19 @@
         ]
     },
     {
+        "id": "332",
+        "name": "Level 332",
+        "url": "http://backrooms-wiki.wikidot.com/level-332",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "54"
+        ],
+        "exits": []
+    },
+    {
         "id": "333",
         "name": "Level 333",
         "url": "http://backrooms-wiki.wikidot.com/level-333",
@@ -8673,6 +8587,23 @@
         ]
     },
     {
+        "id": "334",
+        "name": "Level 334",
+        "url": "http://backrooms-wiki.wikidot.com/level-334",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "119",
+            "188",
+            "201",
+            "404",
+            "601"
+        ],
+        "exits": []
+    },
+    {
         "id": "335",
         "name": "Level 335",
         "url": "http://backrooms-wiki.wikidot.com/level-335",
@@ -8680,6 +8611,35 @@
         "class": 0,
         "communities": [],
         "entrances": [],
+        "exits": []
+    },
+    {
+        "id": "336",
+        "name": "Level 336",
+        "url": "http://backrooms-wiki.wikidot.com/336",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [],
+        "exits": [
+            "118",
+            "182"
+        ]
+    },
+    {
+        "id": "338",
+        "name": "Level 338",
+        "url": "http://backrooms-wiki.wikidot.com/level-338",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "263",
+            "287",
+            "481"
+        ],
         "exits": []
     },
     {
@@ -8693,6 +8653,37 @@
         "exits": []
     },
     {
+        "id": "341",
+        "name": "Level 341",
+        "url": "http://backrooms-wiki.wikidot.com/341",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "290"
+        ],
+        "exits": [
+            "290",
+            "410",
+            "696"
+        ]
+    },
+    {
+        "id": "342",
+        "name": "Level 342",
+        "url": "http://backrooms-wiki.wikidot.com/342",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [],
+        "exits": [
+            "80",
+            "410"
+        ]
+    },
+    {
         "id": "343",
         "name": "Level 343",
         "url": "",
@@ -8703,6 +8694,24 @@
         "exits": [
             "503",
             "986"
+        ]
+    },
+    {
+        "id": "344",
+        "name": "Level 344",
+        "url": "http://backrooms-wiki.wikidot.com/344",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "129",
+            "797"
+        ],
+        "exits": [
+            "75",
+            "227",
+            "515"
         ]
     },
     {
@@ -8727,6 +8736,45 @@
         ]
     },
     {
+        "id": "346",
+        "name": "Level 346",
+        "url": "http://backrooms-wiki.wikidot.com/346",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "134",
+            "149",
+            "436",
+            "710"
+        ],
+        "exits": [
+            "134",
+            "149",
+            "261",
+            "291",
+            "436",
+            "628",
+            "710"
+        ]
+    },
+    {
+        "id": "347",
+        "name": "Level 347",
+        "url": "http://backrooms-wiki.wikidot.com/347",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "300"
+        ],
+        "exits": [
+            "300"
+        ]
+    },
+    {
         "id": "350",
         "name": "Level 350",
         "url": "http://backrooms-wiki.wikidot.com/level-350",
@@ -8734,6 +8782,19 @@
         "class": 0,
         "communities": [],
         "entrances": [],
+        "exits": []
+    },
+    {
+        "id": "351",
+        "name": "Level 351",
+        "url": "http://backrooms-wiki.wikidot.com/level-351",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "601"
+        ],
         "exits": []
     },
     {
@@ -8764,6 +8825,22 @@
         ]
     },
     {
+        "id": "354",
+        "name": "Level 354",
+        "url": "http://backrooms-wiki.wikidot.com/level-354",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "97"
+        ],
+        "exits": [
+            "155",
+            "377"
+        ]
+    },
+    {
         "id": "356",
         "name": "Level 356",
         "url": "http://backrooms-wiki.wikidot.com/level-356",
@@ -8776,6 +8853,23 @@
         "exits": [
             "450",
             "800"
+        ]
+    },
+    {
+        "id": "357",
+        "name": "Level 357",
+        "url": "http://backrooms-wiki.wikidot.com/357",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "205"
+        ],
+        "exits": [
+            "64",
+            "189",
+            "696"
         ]
     },
     {
@@ -8819,6 +8913,20 @@
         "class": 0,
         "communities": [],
         "entrances": [],
+        "exits": []
+    },
+    {
+        "id": "364",
+        "name": "Level 364",
+        "url": "http://backrooms-wiki.wikidot.com/level-364",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "122",
+            "423"
+        ],
         "exits": []
     },
     {
@@ -8951,6 +9059,24 @@
         ]
     },
     {
+        "id": "373",
+        "name": "Level 373",
+        "url": "http://backrooms-wiki.wikidot.com/373",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "134",
+            "135"
+        ],
+        "exits": [
+            "62",
+            "499",
+            "648"
+        ]
+    },
+    {
         "id": "374",
         "name": "Level 374",
         "url": "http://backrooms-wiki.wikidot.com/level-374",
@@ -8972,6 +9098,25 @@
         ]
     },
     {
+        "id": "376",
+        "name": "Level 376",
+        "url": "http://backrooms-wiki.wikidot.com/376",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "120",
+            "172"
+        ],
+        "exits": [
+            "120",
+            "172",
+            "195",
+            "400"
+        ]
+    },
+    {
         "id": "377",
         "name": "Level 377",
         "url": "",
@@ -8983,6 +9128,75 @@
             "448"
         ],
         "exits": []
+    },
+    {
+        "id": "381",
+        "name": "Level 381",
+        "url": "http://backrooms-wiki.wikidot.com/level-381",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "57",
+            "176",
+            "317",
+            "420",
+            "444",
+            "611"
+        ],
+        "exits": []
+    },
+    {
+        "id": "382",
+        "name": "Level 382",
+        "url": "http://backrooms-wiki.wikidot.com/level-382",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "178"
+        ],
+        "exits": []
+    },
+    {
+        "id": "383",
+        "name": "Level 383",
+        "url": "http://backrooms-wiki.wikidot.com/383",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "97",
+            "178"
+        ],
+        "exits": [
+            "78",
+            "112",
+            "117",
+            "155",
+            "404",
+            "584"
+        ]
+    },
+    {
+        "id": "384",
+        "name": "Level 384",
+        "url": "http://backrooms-wiki.wikidot.com/level-384",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "81",
+            "182",
+            "204"
+        ],
+        "exits": [
+            "990"
+        ]
     },
     {
         "id": "386",
@@ -9072,6 +9286,20 @@
         ]
     },
     {
+        "id": "391",
+        "name": "Level 391",
+        "url": "http://backrooms-wiki.wikidot.com/level-391",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "143",
+            "401"
+        ],
+        "exits": []
+    },
+    {
         "id": "393",
         "name": "Level 393",
         "url": "",
@@ -9104,6 +9332,37 @@
             "6",
             "426",
             "705"
+        ]
+    },
+    {
+        "id": "397",
+        "name": "Level 397",
+        "url": "http://backrooms-wiki.wikidot.com/level-397",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "78"
+        ],
+        "exits": []
+    },
+    {
+        "id": "398",
+        "name": "Level 398",
+        "url": "http://backrooms-wiki.wikidot.com/398",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "812",
+            "910"
+        ],
+        "exits": [
+            "57",
+            "63",
+            "135"
         ]
     },
     {
@@ -9239,6 +9498,37 @@
         "exits": []
     },
     {
+        "id": "406",
+        "name": "Level 406",
+        "url": "http://backrooms-wiki.wikidot.com/level-406",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "67",
+            "294"
+        ],
+        "exits": [
+            "89",
+            "153"
+        ]
+    },
+    {
+        "id": "407",
+        "name": "Level 407",
+        "url": "http://backrooms-wiki.wikidot.com/407",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [],
+        "exits": [
+            "57",
+            "90"
+        ]
+    },
+    {
         "id": "408",
         "name": "The Info Room",
         "url": "http://backrooms-wiki.wikidot.com/level-408",
@@ -9296,6 +9586,39 @@
             "19",
             "80",
             "410"
+        ]
+    },
+    {
+        "id": "411",
+        "name": "Level 411",
+        "url": "http://backrooms-wiki.wikidot.com/level-411",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "59"
+        ],
+        "exits": []
+    },
+    {
+        "id": "413",
+        "name": "Level 413",
+        "url": "http://backrooms-wiki.wikidot.com/level-413",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "52",
+            "80",
+            "172",
+            "557",
+            "790"
+        ],
+        "exits": [
+            "129",
+            "172"
         ]
     },
     {
@@ -9405,6 +9728,57 @@
         ]
     },
     {
+        "id": "424",
+        "name": "Level 424",
+        "url": "http://backrooms-wiki.wikidot.com/level-424",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "252"
+        ],
+        "exits": []
+    },
+    {
+        "id": "425",
+        "name": "Level 425",
+        "url": "http://backrooms-wiki.wikidot.com/level-425",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "700"
+        ],
+        "exits": []
+    },
+    {
+        "id": "426",
+        "name": "Level 426",
+        "url": "http://backrooms-wiki.wikidot.com/426",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "387",
+            "395",
+            "400",
+            "571",
+            "714",
+            "990"
+        ],
+        "exits": [
+            "369",
+            "414",
+            "605",
+            "688",
+            "854",
+            "901"
+        ]
+    },
+    {
         "id": "427",
         "name": "Level 427",
         "url": "http://backrooms-wiki.wikidot.com/level-427",
@@ -9427,6 +9801,38 @@
         ]
     },
     {
+        "id": "429",
+        "name": "Level 429",
+        "url": "http://backrooms-wiki.wikidot.com/level-429",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "97"
+        ],
+        "exits": [
+            "180",
+            "817"
+        ]
+    },
+    {
+        "id": "431",
+        "name": "Level 431",
+        "url": "http://backrooms-wiki.wikidot.com/431",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [],
+        "exits": [
+            "901",
+            "943",
+            "990",
+            "997"
+        ]
+    },
+    {
         "id": "432",
         "name": "Level 432",
         "url": "http://backrooms-wiki.wikidot.com/level-432",
@@ -9442,6 +9848,19 @@
             "0",
             "160",
             "162"
+        ]
+    },
+    {
+        "id": "434",
+        "name": "Level 434",
+        "url": "http://backrooms-wiki.wikidot.com/434",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [],
+        "exits": [
+            "57"
         ]
     },
     {
@@ -9464,6 +9883,22 @@
             "189",
             "346",
             "422"
+        ]
+    },
+    {
+        "id": "437",
+        "name": "Level 437",
+        "url": "http://backrooms-wiki.wikidot.com/level-437",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "94",
+            "177"
+        ],
+        "exits": [
+            "283"
         ]
     },
     {
@@ -9526,6 +9961,39 @@
         ]
     },
     {
+        "id": "446",
+        "name": "Level 446",
+        "url": "http://backrooms-wiki.wikidot.com/446",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "256",
+            "287",
+            "903"
+        ],
+        "exits": [
+            "137",
+            "263",
+            "440",
+            "522"
+        ]
+    },
+    {
+        "id": "447",
+        "name": "Level 447",
+        "url": "http://backrooms-wiki.wikidot.com/level-447",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "486"
+        ],
+        "exits": []
+    },
+    {
         "id": "448",
         "name": "Level 448",
         "url": "http://backrooms-wiki.wikidot.com/level-448",
@@ -9561,6 +10029,35 @@
         ]
     },
     {
+        "id": "449",
+        "name": "Level 449",
+        "url": "http://backrooms-wiki.wikidot.com/449",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [],
+        "exits": [
+            "39"
+        ]
+    },
+    {
+        "id": "450",
+        "name": "Level 450",
+        "url": "http://backrooms-wiki.wikidot.com/level-450",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "356"
+        ],
+        "exits": [
+            "801",
+            "808"
+        ]
+    },
+    {
         "id": "451",
         "name": "Paradise 451",
         "url": "http://backrooms-wiki.wikidot.com/level-451",
@@ -9569,6 +10066,69 @@
         "communities": [],
         "entrances": [],
         "exits": []
+    },
+    {
+        "id": "452",
+        "name": "Level 452",
+        "url": "http://backrooms-wiki.wikidot.com/452",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "797"
+        ],
+        "exits": [
+            "170",
+            "466",
+            "817"
+        ]
+    },
+    {
+        "id": "453",
+        "name": "Level 453",
+        "url": "http://backrooms-wiki.wikidot.com/453",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "910"
+        ],
+        "exits": [
+            "57",
+            "63",
+            "135"
+        ]
+    },
+    {
+        "id": "454",
+        "name": "Level 454",
+        "url": "http://backrooms-wiki.wikidot.com/level-454",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "54"
+        ],
+        "exits": []
+    },
+    {
+        "id": "455",
+        "name": "Level 455",
+        "url": "http://backrooms-wiki.wikidot.com/455",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "797"
+        ],
+        "exits": [
+            "75",
+            "797"
+        ]
     },
     {
         "id": "456",
@@ -9601,6 +10161,47 @@
         ]
     },
     {
+        "id": "459",
+        "name": "Level 459",
+        "url": "http://backrooms-wiki.wikidot.com/level-459",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "54",
+            "92",
+            "280"
+        ],
+        "exits": []
+    },
+    {
+        "id": "460",
+        "name": "Level 460",
+        "url": "http://backrooms-wiki.wikidot.com/460",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [],
+        "exits": [
+            "841"
+        ]
+    },
+    {
+        "id": "462",
+        "name": "Level 462",
+        "url": "http://backrooms-wiki.wikidot.com/462",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [],
+        "exits": [
+            "853"
+        ]
+    },
+    {
         "id": "463",
         "name": "Level 463",
         "url": "http://backrooms-wiki.wikidot.com/level-463",
@@ -9611,6 +10212,21 @@
         "exits": [
             "172",
             "174"
+        ]
+    },
+    {
+        "id": "465",
+        "name": "Level 465",
+        "url": "http://backrooms-wiki.wikidot.com/465",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "427"
+        ],
+        "exits": [
+            "427"
         ]
     },
     {
@@ -9627,6 +10243,43 @@
             "811"
         ],
         "exits": []
+    },
+    {
+        "id": "467",
+        "name": "Level 467",
+        "url": "http://backrooms-wiki.wikidot.com/467",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [],
+        "exits": [
+            "445"
+        ]
+    },
+    {
+        "id": "468",
+        "name": "Level 468",
+        "url": "http://backrooms-wiki.wikidot.com/level-468",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "85",
+            "97",
+            "134",
+            "233",
+            "283",
+            "817"
+        ],
+        "exits": [
+            "117",
+            "119",
+            "134",
+            "201",
+            "409"
+        ]
     },
     {
         "id": "469",
@@ -9669,6 +10322,23 @@
         ]
     },
     {
+        "id": "471",
+        "name": "Level 471",
+        "url": "http://backrooms-wiki.wikidot.com/471",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "122",
+            "789"
+        ],
+        "exits": [
+            "122",
+            "448"
+        ]
+    },
+    {
         "id": "474",
         "name": "Level 474",
         "url": "http://backrooms-wiki.wikidot.com/level-474",
@@ -9686,6 +10356,20 @@
             "388",
             "557"
         ]
+    },
+    {
+        "id": "477",
+        "name": "Level 477",
+        "url": "http://backrooms-wiki.wikidot.com/level-477",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "797",
+            "903"
+        ],
+        "exits": []
     },
     {
         "id": "479",
@@ -9815,6 +10499,38 @@
         ]
     },
     {
+        "id": "487",
+        "name": "Level 487",
+        "url": "http://backrooms-wiki.wikidot.com/487",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "63"
+        ],
+        "exits": [
+            "63",
+            "998"
+        ]
+    },
+    {
+        "id": "492",
+        "name": "Level 492",
+        "url": "http://backrooms-wiki.wikidot.com/492",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "200"
+        ],
+        "exits": [
+            "62",
+            "944"
+        ]
+    },
+    {
         "id": "494",
         "name": "Level 494",
         "url": "http://backrooms-wiki.wikidot.com/level-494",
@@ -9848,6 +10564,19 @@
             "97",
             "372",
             "899"
+        ]
+    },
+    {
+        "id": "498",
+        "name": "Level 498",
+        "url": "http://backrooms-wiki.wikidot.com/498",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [],
+        "exits": [
+            "404"
         ]
     },
     {
@@ -9932,6 +10661,24 @@
             "166",
             "266",
             "345"
+        ]
+    },
+    {
+        "id": "504",
+        "name": "Level 504",
+        "url": "http://backrooms-wiki.wikidot.com/504",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "131",
+            "205"
+        ],
+        "exits": [
+            "69",
+            "149",
+            "213"
         ]
     },
     {
@@ -12086,6 +12833,181 @@
         "exits": []
     },
     {
+        "id": "after-hours",
+        "name": "AFTER HOURS",
+        "url": "http://backrooms-wiki.wikidot.com/after-hours",
+        "image": "http://sky3-nuliminal.wikidot.com/local--files/after-hours/Dark%20City",
+        "class": "Deadzone",
+        "communities": [],
+        "entrances": [
+            "11"
+        ],
+        "exits": [
+            "11"
+        ]
+    },
+    {
+        "id": "cathedrale-celeste",
+        "name": "Level cathedrale-celeste",
+        "url": "http://backrooms-wiki.wikidot.com/cathedrale-celeste",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "49.2"
+        ],
+        "exits": []
+    },
+    {
+        "id": "manila-room",
+        "name": "Manila Room",
+        "url": "http://backrooms-wiki.wikidot.com/manila-room",
+        "image": "http://backrooms-wiki.wdfiles.com/local--files/manila-room/ManilaRoom.jpg",
+        "class": "0",
+        "communities": [],
+        "entrances": [
+            "0"
+        ],
+        "exits": [
+            "0"
+        ]
+    },
+    {
+        "id": "office-space-el3a",
+        "name": "Office Space EL3A",
+        "url": "http://backrooms-wiki.wikidot.com/office-space-el3a",
+        "image": "https://live.staticflickr.com/3218/2765681389_c206175049_4k.jpg",
+        "class": "1",
+        "communities": [
+            "B.N.T.G."
+        ],
+        "entrances": [
+            "2"
+        ],
+        "exits": [
+            "2"
+        ]
+    },
+    {
+        "id": "radio-backrooms-studio",
+        "name": "Radio Backrooms' Studio",
+        "url": "http://backrooms-wiki.wikidot.com/radio-backrooms-studio",
+        "image": "https://i.imgur.com/b8UwveR.jpg",
+        "class": "0",
+        "communities": [],
+        "entrances": [
+            "4",
+            "11",
+            "21"
+        ],
+        "exits": [
+            "11"
+        ]
+    },
+    {
+        "id": "red-rooms",
+        "name": "Red Rooms",
+        "url": "http://backrooms-wiki.wikidot.com/red-rooms",
+        "image": "http://scutoidbox.wikidot.com/local--files/red-rooms/eggrooms-red-2.png",
+        "class": "3",
+        "communities": [],
+        "entrances": [
+            "0"
+        ],
+        "exits": [
+            "0"
+        ]
+    },
+    {
+        "id": "the-atrium",
+        "name": "The Atrium",
+        "url": "http://backrooms-wiki.wikidot.com/the-atrium",
+        "image": "http://backrooms-sandbox-2.wikidot.com/local--files/noctilucian/Opryland%20Hotel%2C%20Nashville%2C%20Tennessee.jpg",
+        "class": "Habitable",
+        "communities": [],
+        "entrances": [
+            "43"
+        ],
+        "exits": [
+            "43"
+        ]
+    },
+    {
+        "id": "the-blue-channel",
+        "name": "Level the-blue-channel",
+        "url": "http://backrooms-wiki.wikidot.com/the-blue-channel",
+        "image": "",
+        "class": "Pending",
+        "entities": [],
+        "communities": [],
+        "entrances": [
+            "6.1",
+            "38"
+        ],
+        "exits": []
+    },
+    {
+        "id": "the-chamber",
+        "name": "The Chamber",
+        "url": "http://backrooms-wiki.wikidot.com/the-chamber",
+        "image": "",
+        "class": "Undetermined",
+        "communities": [],
+        "entrances": [
+            "11"
+        ],
+        "exits": [
+            "11"
+        ]
+    },
+    {
+        "id": "the-enclave",
+        "name": "The Enclave",
+        "url": "http://backrooms-wiki.wikidot.com/the-enclave",
+        "image": "http://backrooms-wiki.wikidot.com/local--files/the-enclave/Enclave1.jpg",
+        "class": "Mitis",
+        "communities": [
+            "The Eyes of Argos"
+        ],
+        "entrances": [
+            "48.1"
+        ],
+        "exits": [
+            "48.1"
+        ]
+    },
+    {
+        "id": "the-hadal-zone",
+        "name": "The Hadal Zone",
+        "url": "http://backrooms-wiki.wikidot.com/the-hadal-zone",
+        "image": "",
+        "class": "Deadzone",
+        "communities": [],
+        "entrances": [
+            "7"
+        ],
+        "exits": [
+            "7"
+        ]
+    },
+    {
+        "id": "the-headquarters",
+        "name": "The Headquarters",
+        "url": "http://backrooms-wiki.wikidot.com/the-headquarters",
+        "image": "https://i.imgur.com/y8feL9d.jpg",
+        "class": "Argos",
+        "communities": [
+            "The Eyes of Argos"
+        ],
+        "entrances": [
+            "11"
+        ],
+        "exits": [
+            "11"
+        ]
+    },
+    {
         "id": "the-hub",
         "name": "Level the-hub",
         "url": "http://backrooms-wiki.wikidot.com/the-hub",
@@ -12104,1020 +13026,98 @@
         ]
     },
     {
-        "id": "the-blue-channel",
-        "name": "Level the-blue-channel",
-        "url": "http://backrooms-wiki.wikidot.com/the-blue-channel",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "6.1",
-            "38"
+        "id": "the-profane-burial-site",
+        "name": "The Profane Burial Site",
+        "url": "http://backrooms-wiki.wikidot.com/the-profane-burial-site",
+        "image": "http://backrooms-wiki.wdfiles.com/local--files/the-profane-burial-site/burial%20site",
+        "class": "Peccatum",
+        "communities": [
+            "The Eyes of Argos"
         ],
-        "exits": []
-    },
-    {
-        "id": "449",
-        "name": "Level 449",
-        "url": "http://backrooms-wiki.wikidot.com/449",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [],
+        "entrances": [
+            "46.1"
+        ],
         "exits": [
-            "39"
+            "46.1"
         ]
     },
     {
-        "id": "63.3",
-        "name": "Level 63.3",
-        "url": "http://backrooms-wiki.wikidot.com/level-63-3",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "39"
+        "id": "the-sanctum",
+        "name": "The Sanctum Subterraneous",
+        "url": "http://backrooms-wiki.wikidot.com/the-sanctum",
+        "image": "http://backrooms-wiki.wikidot.com/local--files/the-sanctum/SANCTUM",
+        "class": "Eleos",
+        "communities": [
+            "The Eyes of Argos"
         ],
-        "exits": []
-    },
-    {
-        "id": "cathedrale-celeste",
-        "name": "Level cathedrale-celeste",
-        "url": "http://backrooms-wiki.wikidot.com/cathedrale-celeste",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
         "entrances": [
-            "49.2"
-        ],
-        "exits": []
-    },
-    {
-        "id": "413",
-        "name": "Level 413",
-        "url": "http://backrooms-wiki.wikidot.com/level-413",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "52",
-            "80",
-            "172",
-            "557",
-            "790"
-        ],
-        "exits": [
-            "129",
-            "172"
-        ]
-    },
-    {
-        "id": "332",
-        "name": "Level 332",
-        "url": "http://backrooms-wiki.wikidot.com/level-332",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "54"
-        ],
-        "exits": []
-    },
-    {
-        "id": "454",
-        "name": "Level 454",
-        "url": "http://backrooms-wiki.wikidot.com/level-454",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "54"
-        ],
-        "exits": []
-    },
-    {
-        "id": "459",
-        "name": "Level 459",
-        "url": "http://backrooms-wiki.wikidot.com/level-459",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "54",
-            "92",
-            "280"
-        ],
-        "exits": []
-    },
-    {
-        "id": "319",
-        "name": "Level 319",
-        "url": "http://backrooms-wiki.wikidot.com/319",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "166",
-            "201",
-            "404"
-        ],
-        "exits": [
-            "56",
-            "64",
-            "69",
-            "166",
-            "201",
-            "238",
-            "256",
-            "404",
-            "405",
-            "666",
-            "841"
-        ]
-    },
-    {
-        "id": "398",
-        "name": "Level 398",
-        "url": "http://backrooms-wiki.wikidot.com/398",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "812",
-            "910"
-        ],
-        "exits": [
-            "57",
-            "63",
-            "135"
-        ]
-    },
-    {
-        "id": "407",
-        "name": "Level 407",
-        "url": "http://backrooms-wiki.wikidot.com/407",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [],
-        "exits": [
-            "57",
-            "90"
-        ]
-    },
-    {
-        "id": "434",
-        "name": "Level 434",
-        "url": "http://backrooms-wiki.wikidot.com/434",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [],
-        "exits": [
-            "57"
-        ]
-    },
-    {
-        "id": "453",
-        "name": "Level 453",
-        "url": "http://backrooms-wiki.wikidot.com/453",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "910"
-        ],
-        "exits": [
-            "57",
-            "63",
-            "135"
-        ]
-    },
-    {
-        "id": "310",
-        "name": "Level 310",
-        "url": "http://backrooms-wiki.wikidot.com/level-310",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "57",
-            "321"
-        ],
-        "exits": [
-            "130",
-            "173"
-        ]
-    },
-    {
-        "id": "381",
-        "name": "Level 381",
-        "url": "http://backrooms-wiki.wikidot.com/level-381",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "57",
-            "176",
-            "317",
-            "420",
-            "444",
-            "611"
-        ],
-        "exits": []
-    },
-    {
-        "id": "411",
-        "name": "Level 411",
-        "url": "http://backrooms-wiki.wikidot.com/level-411",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "59"
-        ],
-        "exits": []
-    },
-    {
-        "id": "373",
-        "name": "Level 373",
-        "url": "http://backrooms-wiki.wikidot.com/373",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "134",
-            "135"
-        ],
-        "exits": [
-            "62",
-            "499",
-            "648"
-        ]
-    },
-    {
-        "id": "492",
-        "name": "Level 492",
-        "url": "http://backrooms-wiki.wikidot.com/492",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "200"
-        ],
-        "exits": [
-            "62",
-            "944"
-        ]
-    },
-    {
-        "id": "487",
-        "name": "Level 487",
-        "url": "http://backrooms-wiki.wikidot.com/487",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
+            "8",
             "63"
         ],
         "exits": [
-            "63",
-            "998"
+            "8"
         ]
     },
     {
-        "id": "357",
-        "name": "Level 357",
-        "url": "http://backrooms-wiki.wikidot.com/357",
+        "id": "the-surveillance-room",
+        "name": "The Surveillance Room",
+        "url": "http://backrooms-wiki.wikidot.com/the-surveillance-room",
         "image": "",
-        "class": "Pending",
-        "entities": [],
+        "class": "1",
         "communities": [],
         "entrances": [
-            "205"
+            "0",
+            "1",
+            "3",
+            "4",
+            "903",
+            "the-hub"
         ],
         "exits": [
-            "64",
-            "189",
-            "696"
+            "0",
+            "1",
+            "4",
+            "5",
+            "9",
+            "11",
+            "13",
+            "16",
+            "20",
+            "30",
+            "32",
+            "35",
+            "36",
+            "40"
         ]
     },
     {
-        "id": "406",
-        "name": "Level 406",
-        "url": "http://backrooms-wiki.wikidot.com/level-406",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
+        "id": "the-torment",
+        "name": "The Torment",
+        "url": "http://backrooms-wiki.wikidot.com/the-torment",
+        "image": "http://backrooms-wiki.wikidot.com/local--files/the-torment/statueman",
+        "class": "Undetermined",
         "communities": [],
         "entrances": [
-            "67",
-            "294"
+            "0"
         ],
         "exits": [
-            "89",
-            "153"
+            "0"
         ]
     },
     {
-        "id": "504",
-        "name": "Level 504",
-        "url": "http://backrooms-wiki.wikidot.com/504",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
+        "id": "traders-vault",
+        "name": "Traders Vault",
+        "url": "http://backrooms-wiki.wikidot.com/traders-vault",
+        "image": "http://liminaldoctor.wdfiles.com/local--files/gallery/storage",
+        "class": "1",
+        "communities": [
+            "B.N.T.G. - \"Traders Vault\" Crew"
+        ],
         "entrances": [
-            "131",
-            "205"
+            "1"
         ],
         "exits": [
-            "69",
-            "149",
-            "213"
-        ]
-    },
-    {
-        "id": "344",
-        "name": "Level 344",
-        "url": "http://backrooms-wiki.wikidot.com/344",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "129",
-            "797"
-        ],
-        "exits": [
-            "75",
-            "227",
-            "515"
-        ]
-    },
-    {
-        "id": "455",
-        "name": "Level 455",
-        "url": "http://backrooms-wiki.wikidot.com/455",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "797"
-        ],
-        "exits": [
-            "75",
-            "797"
-        ]
-    },
-    {
-        "id": "383",
-        "name": "Level 383",
-        "url": "http://backrooms-wiki.wikidot.com/383",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "97",
-            "178"
-        ],
-        "exits": [
-            "78",
-            "112",
-            "117",
-            "155",
-            "404",
-            "584"
-        ]
-    },
-    {
-        "id": "397",
-        "name": "Level 397",
-        "url": "http://backrooms-wiki.wikidot.com/level-397",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "78"
-        ],
-        "exits": []
-    },
-    {
-        "id": "329",
-        "name": "Level 329",
-        "url": "http://backrooms-wiki.wikidot.com/329",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "150",
-            "309"
-        ],
-        "exits": [
-            "80",
-            "388"
-        ]
-    },
-    {
-        "id": "342",
-        "name": "Level 342",
-        "url": "http://backrooms-wiki.wikidot.com/342",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [],
-        "exits": [
-            "80",
-            "410"
-        ]
-    },
-    {
-        "id": "384",
-        "name": "Level 384",
-        "url": "http://backrooms-wiki.wikidot.com/level-384",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "81",
-            "182",
-            "204"
-        ],
-        "exits": [
-            "990"
-        ]
-    },
-    {
-        "id": "468",
-        "name": "Level 468",
-        "url": "http://backrooms-wiki.wikidot.com/level-468",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "85",
-            "97",
-            "134",
-            "233",
-            "283",
-            "817"
-        ],
-        "exits": [
-            "117",
-            "119",
-            "134",
-            "201",
-            "409"
-        ]
-    },
-    {
-        "id": "437",
-        "name": "Level 437",
-        "url": "http://backrooms-wiki.wikidot.com/level-437",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "94",
-            "177"
-        ],
-        "exits": [
-            "283"
-        ]
-    },
-    {
-        "id": "354",
-        "name": "Level 354",
-        "url": "http://backrooms-wiki.wikidot.com/level-354",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "97"
-        ],
-        "exits": [
-            "155",
-            "377"
-        ]
-    },
-    {
-        "id": "429",
-        "name": "Level 429",
-        "url": "http://backrooms-wiki.wikidot.com/level-429",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "97"
-        ],
-        "exits": [
-            "180",
-            "817"
-        ]
-    },
-    {
-        "id": "306",
-        "name": "Level 306",
-        "url": "http://backrooms-wiki.wikidot.com/306",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [],
-        "exits": [
-            "109"
-        ]
-    },
-    {
-        "id": "336",
-        "name": "Level 336",
-        "url": "http://backrooms-wiki.wikidot.com/336",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [],
-        "exits": [
-            "118",
-            "182"
-        ]
-    },
-    {
-        "id": "334",
-        "name": "Level 334",
-        "url": "http://backrooms-wiki.wikidot.com/level-334",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "119",
-            "188",
-            "201",
-            "404",
-            "601"
-        ],
-        "exits": []
-    },
-    {
-        "id": "376",
-        "name": "Level 376",
-        "url": "http://backrooms-wiki.wikidot.com/376",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "120",
-            "172"
-        ],
-        "exits": [
-            "120",
-            "172",
-            "195",
-            "400"
-        ]
-    },
-    {
-        "id": "471",
-        "name": "Level 471",
-        "url": "http://backrooms-wiki.wikidot.com/471",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "122",
-            "789"
-        ],
-        "exits": [
-            "122",
-            "448"
-        ]
-    },
-    {
-        "id": "364",
-        "name": "Level 364",
-        "url": "http://backrooms-wiki.wikidot.com/level-364",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "122",
-            "423"
-        ],
-        "exits": []
-    },
-    {
-        "id": "346",
-        "name": "Level 346",
-        "url": "http://backrooms-wiki.wikidot.com/346",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "134",
-            "149",
-            "436",
-            "710"
-        ],
-        "exits": [
-            "134",
-            "149",
-            "261",
-            "291",
-            "436",
-            "628",
-            "710"
-        ]
-    },
-    {
-        "id": "446",
-        "name": "Level 446",
-        "url": "http://backrooms-wiki.wikidot.com/446",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "256",
-            "287",
-            "903"
-        ],
-        "exits": [
-            "137",
-            "263",
-            "440",
-            "522"
-        ]
-    },
-    {
-        "id": "328",
-        "name": "Level 328",
-        "url": "http://backrooms-wiki.wikidot.com/level-328",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "141"
-        ],
-        "exits": [
-            "387"
-        ]
-    },
-    {
-        "id": "391",
-        "name": "Level 391",
-        "url": "http://backrooms-wiki.wikidot.com/level-391",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "143",
-            "401"
-        ],
-        "exits": []
-    },
-    {
-        "id": "314",
-        "name": "Level 314",
-        "url": "http://backrooms-wiki.wikidot.com/314",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "148",
-            "365"
-        ],
-        "exits": [
-            "148"
-        ]
-    },
-    {
-        "id": "452",
-        "name": "Level 452",
-        "url": "http://backrooms-wiki.wikidot.com/452",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "797"
-        ],
-        "exits": [
-            "170",
-            "466",
-            "817"
-        ]
-    },
-    {
-        "id": "382",
-        "name": "Level 382",
-        "url": "http://backrooms-wiki.wikidot.com/level-382",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "178"
-        ],
-        "exits": []
-    },
-    {
-        "id": "311",
-        "name": "Level 311",
-        "url": "http://backrooms-wiki.wikidot.com/level-311",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "188"
-        ],
-        "exits": []
-    },
-    {
-        "id": "424",
-        "name": "Level 424",
-        "url": "http://backrooms-wiki.wikidot.com/level-424",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "252"
-        ],
-        "exits": []
-    },
-    {
-        "id": "338",
-        "name": "Level 338",
-        "url": "http://backrooms-wiki.wikidot.com/level-338",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "263",
-            "287",
-            "481"
-        ],
-        "exits": []
-    },
-    {
-        "id": "341",
-        "name": "Level 341",
-        "url": "http://backrooms-wiki.wikidot.com/341",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "290"
-        ],
-        "exits": [
-            "290",
-            "410",
-            "696"
-        ]
-    },
-    {
-        "id": "347",
-        "name": "Level 347",
-        "url": "http://backrooms-wiki.wikidot.com/347",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "300"
-        ],
-        "exits": [
-            "300"
-        ]
-    },
-    {
-        "id": "450",
-        "name": "Level 450",
-        "url": "http://backrooms-wiki.wikidot.com/level-450",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "356"
-        ],
-        "exits": [
-            "801",
-            "808"
-        ]
-    },
-    {
-        "id": "426",
-        "name": "Level 426",
-        "url": "http://backrooms-wiki.wikidot.com/426",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "387",
-            "395",
-            "400",
-            "571",
-            "714",
-            "990"
-        ],
-        "exits": [
-            "369",
-            "414",
-            "605",
-            "688",
-            "854",
-            "901"
-        ]
-    },
-    {
-        "id": "498",
-        "name": "Level 498",
-        "url": "http://backrooms-wiki.wikidot.com/498",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [],
-        "exits": [
-            "404"
-        ]
-    },
-    {
-        "id": "465",
-        "name": "Level 465",
-        "url": "http://backrooms-wiki.wikidot.com/465",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "427"
-        ],
-        "exits": [
-            "427"
-        ]
-    },
-    {
-        "id": "467",
-        "name": "Level 467",
-        "url": "http://backrooms-wiki.wikidot.com/467",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [],
-        "exits": [
-            "445"
-        ]
-    },
-    {
-        "id": "301",
-        "name": "Level 301",
-        "url": "http://backrooms-wiki.wikidot.com/301",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [],
-        "exits": [
-            "474"
-        ]
-    },
-    {
-        "id": "447",
-        "name": "Level 447",
-        "url": "http://backrooms-wiki.wikidot.com/level-447",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "486"
-        ],
-        "exits": []
-    },
-    {
-        "id": "351",
-        "name": "Level 351",
-        "url": "http://backrooms-wiki.wikidot.com/level-351",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "601"
-        ],
-        "exits": []
-    },
-    {
-        "id": "425",
-        "name": "Level 425",
-        "url": "http://backrooms-wiki.wikidot.com/level-425",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "700"
-        ],
-        "exits": []
-    },
-    {
-        "id": "477",
-        "name": "Level 477",
-        "url": "http://backrooms-wiki.wikidot.com/level-477",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [
-            "797",
-            "903"
-        ],
-        "exits": []
-    },
-    {
-        "id": "460",
-        "name": "Level 460",
-        "url": "http://backrooms-wiki.wikidot.com/460",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [],
-        "exits": [
-            "841"
-        ]
-    },
-    {
-        "id": "462",
-        "name": "Level 462",
-        "url": "http://backrooms-wiki.wikidot.com/462",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [],
-        "exits": [
-            "853"
-        ]
-    },
-    {
-        "id": "431",
-        "name": "Level 431",
-        "url": "http://backrooms-wiki.wikidot.com/431",
-        "image": "",
-        "class": "Pending",
-        "entities": [],
-        "communities": [],
-        "entrances": [],
-        "exits": [
-            "901",
-            "943",
-            "990",
-            "997"
+            "1"
         ]
     }
 ]
