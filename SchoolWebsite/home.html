@@ -1,0 +1,147 @@
+<html lang="ar"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>School Name</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&amp;display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --black: #000000;
+            --white: #ffffff;
+            --primary-color: #D7B300;
+            --tertiary-color: #23CE6B;
+            --secondary-color: #02A9EA;
+
+            direction: rtl;
+        }
+
+        body {
+            margin: 0;
+            font-family: 'Roboto', sans-serif;
+            color: var(--black);
+            background: var(--white);
+        }
+
+        header {
+            background: var(--primary-color);
+            color: var(--white);
+            padding: 0 15px;
+            text-align: right;
+            display: grid;
+            grid-template-areas: 'logo title nav';
+            grid-template-columns: auto 1fr auto;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 1.75rem;
+            grid-area: title;
+            align-content: center;
+            margin: 0 5px 0 0;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            align-content: center;
+            left: 0;
+            height: 100%;
+            grid-area: nav;
+        }
+        nav a {
+            color: var(--white);
+            text-decoration: none;
+            padding: 0 20px;
+            font-size: 1.25rem;
+            display: block;
+            text-align: center;
+            align-content: center;
+            position: relative;
+            z-index: 1;
+            margin: 0 0;
+        }
+        nav a::before {
+            content: "";
+            background: var(--secondary-color);
+            clip-path: polygon(var(--clip));
+            --clip: 0 0, 0 0, 100% 0, 100% 0;
+            transition: all 0.15s ease-in-out;
+            width: 100%;
+            height: 100%;
+            display: block;
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: -1;
+        }
+        nav a:hover::before {
+            --clip: 0 0, 0 100%, 100% 100%, 100% 0;
+        }
+        .hero {
+            background: url('https://pbs.twimg.com/profile_banners/1485107220740202496/1642913170/1500x500') no-repeat center center/cover;
+            height: 60vh;
+            display: flex;
+            align-items: start;
+            justify-content: center;
+            color: var(--tertiary-color);
+            text-align: end;
+        }
+        .hero h2 {
+            font-size: 3.5rem;
+            margin: 0;
+        }
+        .link {
+            width: 60vw;
+            height: 300px;
+            background: var(--secondary-color);
+            margin: 20px;
+            border-radius: 50px;
+            position: relative;
+        }
+        .link p {
+            margin: 25px;
+            position: relative;
+        }
+        .content {
+            padding: 20px;
+            text-align: center;
+        }
+        .content h3 {
+            font-size: 2rem;
+            margin-bottom: 10px;
+        }
+        .content p {
+            font-size: 1.2rem;
+            line-height: 1.6;
+        }
+        footer {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body class="activity-stream" style="--newtab-wallpaper: url(); --newtab-wallpaper-color: transparent;">
+    <header>
+        <img class="logo" src="https://storage.googleapis.com/yaschools/backend/media/school/logos/-d2R4lbZVFWyhWQwWNE_ZhgQHK1vlTwl.jpg" alt="School Logo" style="width: 75px; height: auto;">
+        <h1>مدارس فرسان رماح</h1>
+
+        <nav>
+            <a href="#contact">عنّا</a><a href="#about">تواصل معنا</a>
+            
+            
+        </nav>
+    </header>
+    <div class="hero">
+        <h2>Empowering Students for a Bright Future</h2>
+    </div>
+    
+    <div class="link">
+
+<p>Lorem Ipsum Dolor blah blah blah idc man it just has stuff that we have here so yeah who cares I certainly don't yk? icl idc ts pmo vro</p>
+
+</div><footer>
+        <p>© 2023 [School Name]. All rights reserved.</p>
+    </footer>
+
+
+</body><style type="text/css"></style><style type="text/css"></style><style type="text/css"></style></html>
