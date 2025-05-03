@@ -1,0 +1,129 @@
+.hero {
+    background: url('https://pbs.twimg.com/profile_banners/1485107220740202496/1642913170/1500x500') no-repeat center center/cover;
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--tertiary-color);
+}
+
+.heroband {
+    width: 100%;
+    padding-block: 10px;
+    background-color: #000B;
+  }
+
+.hero h2 {
+    font-size: 3.5rem;
+    margin: 0;
+    text-align: center;
+    padding-inline: 15px;
+}
+
+.linkbox {
+    display: flex;
+    position: relative;
+}
+
+.linkbox::after {
+    content: "";
+    clip-path: polygon(var(--clip));
+    transition: all 0.15s ease-in-out;
+    width: 100%;
+    height: 100%;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.linkbox:has(.right)::after {
+    background: linear-gradient(-90deg, var(--secondary-color), transparent);
+    --clip: 100% 0, 100% 0, 100% 100%, 100% 100%;
+}
+
+.linkbox:has(.left)::after {
+    background: linear-gradient(90deg, var(--secondary-color), transparent);
+    --clip: 0 0, 0 0, 0 100%, 0 100%;
+}
+
+.linkbox:has(.right:hover)::after {
+    --clip: 0 0, 100% 0, 100% 100%, 0 100%;
+}
+
+.linkbox:has(.left:hover)::after {
+    --clip: 100% 0, 0 0, 0 100%, 100% 100%;
+}
+
+.link {
+    width: 40vw;
+    height: 200px;
+    background: var(--primary-color);
+    margin: 40px;
+    border-radius: 50px;
+    transition: margin 0.3s ease-in-out;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.link::after {
+    display: block;
+    position: absolute;
+    left: -25px;
+    height: 100%;
+    top: 0;
+    align-content: center;
+}
+
+.link.left:hover {
+    margin-left: calc(40px + 5dvw);
+}
+
+.link.left::after {
+    content: "<";
+    right: -25px;
+    left: unset;
+}
+
+.link.right:hover {
+    margin-right: calc(40px + 5dvw);
+}
+
+.link.right::after {
+    content: ">";
+    left: -25px;
+}
+
+.link p {
+    position: relative;
+    text-align: center;
+    align-content: center;
+    height: 100%;
+    margin-block: 0;
+}
+
+.link a {
+    display: block;
+    height: 100%;
+    align-content: center;
+    padding-inline: 25px;
+    text-decoration: none;
+    color: var(--black);
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.description {
+    width: 100%;
+    flex-grow: 0;
+}
+
+.description p {
+    text-align: center;
+    align-content: center;
+    height: 100%;
+    margin: 0;
+    font-size: 1.5rem;
+    padding-inline: 20px;
+}
