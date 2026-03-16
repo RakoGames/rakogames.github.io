@@ -19,8 +19,8 @@
             }
         }).then(async (response) => {
             console.log(response);
-            console.log(response.body);
-            document.body.innerHTML = response.body;
+            console.log(await response.text);
+            document.body.innerHTML = await response.text;
         });
     </script>
 </body>
