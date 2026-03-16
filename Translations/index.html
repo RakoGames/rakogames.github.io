@@ -9,7 +9,15 @@
 
 <body>
     <script type="text/javascript">
-        fetch("https://ayyqayxroldkohmgtgws.supabase.co/functions/v1/database-access").then(async (response) => {
+        fetch("https://ayyqayxroldkohmgtgws.supabase.co/functions/v1/database-access", {
+            method: "GET",
+            headers: {
+                "site": "%%site_name%%",
+                "url": "%%fullname%%",
+                "branch": "{$branch}",
+                "theme": "{$theme}"
+            }
+        }).then(async (response) => {
             console.log(response);
             console.log(response.body);
             document.body.innerHTML = response.body;
