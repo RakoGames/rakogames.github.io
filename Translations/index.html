@@ -10,7 +10,7 @@
 <body>
     <script type="text/javascript">
         let queries = {};
-        window.location.search.split("?")[1].split("&").forEach(query => {
+        window.location.search.split("?")[1]?.split("&").forEach(query => {
             queries[query.split("=")[0]] = query.split("=")[1];
         });
         fetch("https://ayyqayxroldkohmgtgws.supabase.co/functions/v1/database-access", {
