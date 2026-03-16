@@ -16,10 +16,10 @@
         fetch("https://ayyqayxroldkohmgtgws.supabase.co/functions/v1/database-access", {
             method: "GET",
             headers: {
-                "site": queries["site"] ?? "",
-                "url": queries["url"] ?? "",
-                "branch": queries["branch"] ?? "",
-                "theme": queries["theme"] ?? ""
+                "url": queries["url"] ?? "{$url}",
+                "branch": queries["branch"] ?? "{$branch}",
+                "theme": queries["theme"] ?? "{$theme}",
+                "site": queries["site"] ?? "backrooms-wiki"
             }
         }).then(async (response) => {
             document.body.innerHTML = await response.text();
