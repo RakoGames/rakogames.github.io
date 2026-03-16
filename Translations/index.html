@@ -9,13 +9,11 @@
 
 <body>
     <script type="text/javascript">
-        let start = function () {
-            fetch("https://ayyqayxroldkohmgtgws.supabase.co/functions/v1/database-access?site=%%site_name%%&url=%%fullname%%&branch={$branch}&theme={$theme}").then(async (response) => {
-                console.log(response);
-                console.log(response.body);
-                document.body.innerHTML = response.body;
-            });
-        }
+        fetch("https://ayyqayxroldkohmgtgws.supabase.co/functions/v1/database-access?site=%%site_name%%&url=%%fullname%%&branch={$branch}&theme={$theme}").then(async (response) => {
+            console.log(response);
+            console.log(response.body);
+            document.body.innerHTML = response.body;
+        });
     </script>
 </body>
 
