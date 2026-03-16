@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang=\"en\">
+
+<head>
+    <meta charset=\"UTF-8\">
+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">
+    <title>Backrooms Translations!</title>
+</head>
+
+<body>
+    <script type="text/javascript">
+        let start = function () {
+            fetch("https://ayyqayxroldkohmgtgws.supabase.co/functions/v1/database-access?site=%%site_name%%&url=%%fullname%%&branch={$branch}&theme={$theme}").then(async (response) => {
+                console.log(response);
+                console.log(response.body);
+                document.body.innerHTML = response.body;
+            });
+        }
+    </script>
+</body>
+
+</html>
