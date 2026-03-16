@@ -18,8 +18,6 @@
                 "theme": "{$theme}"
             }
         }).then(async (response) => {
-            console.log(response);
-            console.log(await response.text());
             document.body.innerHTML = await response.text();
         });
     </script>
