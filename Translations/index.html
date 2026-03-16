@@ -16,10 +16,10 @@
         fetch("https://ayyqayxroldkohmgtgws.supabase.co/functions/v1/database-access", {
             method: "GET",
             headers: {
-                "site": queries["site"],
-                "url": queries["url"],
-                "branch": queries["branch"],
-                "theme": queries["theme"]
+                "site": queries["site"] ?? "",
+                "url": queries["url"] ?? "",
+                "branch": queries["branch"] ?? "",
+                "theme": queries["theme"] ?? ""
             }
         }).then(async (response) => {
             document.body.innerHTML = await response.text();
