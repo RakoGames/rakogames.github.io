@@ -9,13 +9,17 @@
 
 <body>
     <script type="text/javascript">
+        let queries = {};
+        window.location.search.split("?")[1].split("&").forEach(query => {
+            queries[query.split("=")[0]] = query.split("=")[1];
+        });
         fetch("https://ayyqayxroldkohmgtgws.supabase.co/functions/v1/database-access", {
             method: "GET",
             headers: {
-                "site": "%%site_name%%",
-                "url": "%%fullname%%",
-                "branch": "{$branch}",
-                "theme": "{$theme}"
+                "site": queries["site"],
+                "url": queries["url"],
+                "branch": queries["branch"],
+                "theme": queries["theme"]
             }
         }).then(async (response) => {
             document.body.innerHTML = await response.text();
